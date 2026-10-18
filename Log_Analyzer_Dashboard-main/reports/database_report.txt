@@ -1,0 +1,21 @@
+========================================
+REPORT: logs/database.log
+========================================
+Total lines: 13
+Total errors: 5
+Total warnings: 3
+
+---ERROR DETAILS ---
+2024-03-10 11:02:44 -> Table lock timeout on users table
+2024-03-10 11:04:11 -> Replication lag reached critical level
+2024-03-10 11:07:55 -> Deadlock detected between transactions
+2024-03-10 11:10:28 -> Primary key violation in orders table
+2024-03-10 11:12:50 -> Backup failed storage unavailable
+
+---WARNING DETAILS ---
+2024-03-10 11:01:22 -> Slow query detected taking 5 seconds
+2024-03-10 11:05:33 -> Connection pool near limit 90 percent
+2024-03-10 11:09:17 -> Disk space for logs below 20 percent
+
+---SEVERITY ---
+Moderate Issues .Investigate soon.

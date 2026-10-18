@@ -1,0 +1,9 @@
+include README.md CHANGELOG.md DEVELOPMENT_PLAN.md requirements.txt requirements-dev.txt pytest.ini
+include pyproject.toml
+recursive-include requirements *.txt
+recursive-include docs *.md *.json
+recursive-include scripts *.py
+recursive-include tests *.py *.log *.jsonl
+recursive-include .streamlit *.toml
+exclude .streamlit/secrets.toml
+

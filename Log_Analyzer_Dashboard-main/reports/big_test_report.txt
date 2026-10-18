@@ -1,0 +1,2015 @@
+========================================
+REPORT: logs/big_test.log
+========================================
+Total lines: 10000
+Total errors: 526
+Total warnings: 1476
+
+---ERROR DETAILS ---
+2024-03-10 09:03:30 -> Null pointer exception
+2024-03-10 09:16:15 -> Authentication service unavailable
+2024-03-10 09:18:00 -> Null pointer exception
+2024-03-10 09:23:15 -> Authentication service unavailable
+2024-03-10 09:24:30 -> Database connection failed
+2024-03-10 09:29:45 -> Unhandled application exception
+2024-03-10 09:37:30 -> Unhandled application exception
+2024-03-10 09:39:00 -> Failed to write log file
+2024-03-10 09:54:45 -> Database connection failed
+2024-03-10 09:56:15 -> Authentication service unavailable
+2024-03-10 09:59:00 -> Failed to write log file
+2024-03-10 10:00:15 -> Null pointer exception
+2024-03-10 10:09:30 -> Failed to write log file
+2024-03-10 10:11:15 -> Null pointer exception
+2024-03-10 10:17:00 -> Failed to write log file
+2024-03-10 10:19:30 -> Failed to write log file
+2024-03-10 10:24:00 -> Unhandled application exception
+2024-03-10 10:33:30 -> Authentication service unavailable
+2024-03-10 10:34:30 -> Null pointer exception
+2024-03-10 10:53:15 -> Null pointer exception
+2024-03-10 10:53:45 -> Failed to write log file
+2024-03-10 10:55:00 -> Authentication service unavailable
+2024-03-10 11:01:30 -> Database connection failed
+2024-03-10 11:10:30 -> Authentication service unavailable
+2024-03-10 11:11:30 -> Database connection failed
+2024-03-10 11:14:00 -> Unhandled application exception
+2024-03-10 11:18:00 -> Null pointer exception
+2024-03-10 11:19:30 -> Unhandled application exception
+2024-03-10 11:20:30 -> Database connection failed
+2024-03-10 11:24:30 -> Database connection failed
+2024-03-10 11:37:15 -> Failed to write log file
+2024-03-10 11:41:15 -> Null pointer exception
+2024-03-10 11:45:45 -> Database connection failed
+2024-03-10 11:48:15 -> Database connection failed
+2024-03-10 12:01:15 -> Authentication service unavailable
+2024-03-10 12:09:30 -> Unhandled application exception
+2024-03-10 12:10:30 -> Null pointer exception
+2024-03-10 12:12:30 -> Failed to write log file
+2024-03-10 12:13:45 -> Null pointer exception
+2024-03-10 12:15:45 -> Unhandled application exception
+2024-03-10 12:16:00 -> Authentication service unavailable
+2024-03-10 12:16:15 -> Unhandled application exception
+2024-03-10 12:18:30 -> Unhandled application exception
+2024-03-10 12:27:30 -> Null pointer exception
+2024-03-10 12:30:45 -> Failed to write log file
+2024-03-10 12:33:45 -> Null pointer exception
+2024-03-10 12:35:30 -> Unhandled application exception
+2024-03-10 12:38:00 -> Failed to write log file
+2024-03-10 12:41:45 -> Database connection failed
+2024-03-10 12:44:00 -> Null pointer exception
+2024-03-10 12:44:30 -> Null pointer exception
+2024-03-10 12:46:45 -> Authentication service unavailable
+2024-03-10 12:51:30 -> Unhandled application exception
+2024-03-10 12:58:30 -> Unhandled application exception
+2024-03-10 13:01:15 -> Authentication service unavailable
+2024-03-10 13:01:30 -> Unhandled application exception
+2024-03-10 13:03:45 -> Failed to write log file
+2024-03-10 13:08:45 -> Database connection failed
+2024-03-10 13:09:30 -> Database connection failed
+2024-03-10 13:12:15 -> Null pointer exception
+2024-03-10 13:16:45 -> Database connection failed
+2024-03-10 13:24:30 -> Authentication service unavailable
+2024-03-10 13:26:00 -> Null pointer exception
+2024-03-10 13:32:15 -> Database connection failed
+2024-03-10 13:37:45 -> Null pointer exception
+2024-03-10 13:39:15 -> Authentication service unavailable
+2024-03-10 13:56:00 -> Authentication service unavailable
+2024-03-10 14:07:00 -> Unhandled application exception
+2024-03-10 14:11:30 -> Failed to write log file
+2024-03-10 14:12:30 -> Null pointer exception
+2024-03-10 14:23:30 -> Authentication service unavailable
+2024-03-10 14:26:30 -> Database connection failed
+2024-03-10 14:29:45 -> Unhandled application exception
+2024-03-10 14:33:30 -> Unhandled application exception
+2024-03-10 14:35:45 -> Failed to write log file
+2024-03-10 14:38:15 -> Authentication service unavailable
+2024-03-10 14:40:15 -> Database connection failed
+2024-03-10 14:43:00 -> Unhandled application exception
+2024-03-10 14:43:30 -> Unhandled application exception
+2024-03-10 14:56:15 -> Failed to write log file
+2024-03-10 14:57:00 -> Database connection failed
+2024-03-10 14:57:45 -> Authentication service unavailable
+2024-03-10 15:08:15 -> Failed to write log file
+2024-03-10 15:18:00 -> Database connection failed
+2024-03-10 15:18:45 -> Unhandled application exception
+2024-03-10 15:23:00 -> Null pointer exception
+2024-03-10 15:27:45 -> Null pointer exception
+2024-03-10 15:40:45 -> Database connection failed
+2024-03-10 15:41:30 -> Null pointer exception
+2024-03-10 15:42:00 -> Database connection failed
+2024-03-10 15:45:00 -> Database connection failed
+2024-03-10 15:48:45 -> Null pointer exception
+2024-03-10 15:50:15 -> Failed to write log file
+2024-03-10 15:53:45 -> Unhandled application exception
+2024-03-10 15:54:00 -> Failed to write log file
+2024-03-10 16:09:00 -> Failed to write log file
+2024-03-10 16:25:15 -> Failed to write log file
+2024-03-10 16:26:45 -> Failed to write log file
+2024-03-10 16:27:30 -> Null pointer exception
+2024-03-10 16:29:00 -> Failed to write log file
+2024-03-10 16:31:45 -> Authentication service unavailable
+2024-03-10 16:35:45 -> Unhandled application exception
+2024-03-10 16:41:00 -> Authentication service unavailable
+2024-03-10 16:42:00 -> Unhandled application exception
+2024-03-10 16:47:30 -> Unhandled application exception
+2024-03-10 16:55:45 -> Database connection failed
+2024-03-10 16:57:15 -> Null pointer exception
+2024-03-10 16:59:15 -> Authentication service unavailable
+2024-03-10 17:02:00 -> Authentication service unavailable
+2024-03-10 17:08:15 -> Authentication service unavailable
+2024-03-10 17:14:00 -> Authentication service unavailable
+2024-03-10 17:20:00 -> Authentication service unavailable
+2024-03-10 17:24:15 -> Authentication service unavailable
+2024-03-10 17:32:30 -> Null pointer exception
+2024-03-10 17:34:45 -> Null pointer exception
+2024-03-10 17:36:15 -> Authentication service unavailable
+2024-03-10 17:45:15 -> Unhandled application exception
+2024-03-10 17:48:00 -> Authentication service unavailable
+2024-03-10 17:51:15 -> Authentication service unavailable
+2024-03-10 17:52:00 -> Database connection failed
+2024-03-10 17:55:45 -> Null pointer exception
+2024-03-10 17:57:30 -> Unhandled application exception
+2024-03-10 18:01:00 -> Database connection failed
+2024-03-10 18:11:15 -> Null pointer exception
+2024-03-10 18:28:00 -> Failed to write log file
+2024-03-10 18:28:15 -> Database connection failed
+2024-03-10 18:34:45 -> Null pointer exception
+2024-03-10 18:36:30 -> Failed to write log file
+2024-03-10 18:44:15 -> Failed to write log file
+2024-03-10 18:51:30 -> Failed to write log file
+2024-03-10 18:55:45 -> Unhandled application exception
+2024-03-10 18:56:15 -> Authentication service unavailable
+2024-03-10 18:56:30 -> Null pointer exception
+2024-03-10 18:57:30 -> Database connection failed
+2024-03-10 19:06:00 -> Database connection failed
+2024-03-10 19:07:15 -> Failed to write log file
+2024-03-10 19:14:15 -> Database connection failed
+2024-03-10 19:19:45 -> Null pointer exception
+2024-03-10 19:26:30 -> Authentication service unavailable
+2024-03-10 19:29:30 -> Database connection failed
+2024-03-10 19:31:45 -> Unhandled application exception
+2024-03-10 19:34:45 -> Unhandled application exception
+2024-03-10 19:44:15 -> Failed to write log file
+2024-03-10 19:45:00 -> Null pointer exception
+2024-03-10 19:47:00 -> Authentication service unavailable
+2024-03-10 19:47:15 -> Failed to write log file
+2024-03-10 19:50:00 -> Authentication service unavailable
+2024-03-10 19:52:30 -> Unhandled application exception
+2024-03-10 19:58:15 -> Null pointer exception
+2024-03-10 19:58:30 -> Authentication service unavailable
+2024-03-10 19:59:45 -> Null pointer exception
+2024-03-10 20:05:15 -> Failed to write log file
+2024-03-10 20:05:30 -> Database connection failed
+2024-03-10 20:08:30 -> Unhandled application exception
+2024-03-10 20:19:00 -> Database connection failed
+2024-03-10 20:23:45 -> Authentication service unavailable
+2024-03-10 20:32:15 -> Failed to write log file
+2024-03-10 20:32:45 -> Authentication service unavailable
+2024-03-10 20:35:15 -> Unhandled application exception
+2024-03-10 20:35:30 -> Failed to write log file
+2024-03-10 20:38:15 -> Null pointer exception
+2024-03-10 20:43:30 -> Unhandled application exception
+2024-03-10 20:55:00 -> Failed to write log file
+2024-03-10 20:56:00 -> Database connection failed
+2024-03-10 21:00:00 -> Database connection failed
+2024-03-10 21:05:45 -> Database connection failed
+2024-03-10 21:07:30 -> Authentication service unavailable
+2024-03-10 21:07:45 -> Null pointer exception
+2024-03-10 21:16:45 -> Null pointer exception
+2024-03-10 21:18:00 -> Failed to write log file
+2024-03-10 21:25:00 -> Authentication service unavailable
+2024-03-10 21:27:00 -> Null pointer exception
+2024-03-10 21:30:00 -> Unhandled application exception
+2024-03-10 21:40:00 -> Unhandled application exception
+2024-03-10 21:41:15 -> Authentication service unavailable
+2024-03-10 21:43:15 -> Null pointer exception
+2024-03-10 21:46:15 -> Unhandled application exception
+2024-03-10 21:51:45 -> Database connection failed
+2024-03-10 21:52:45 -> Database connection failed
+2024-03-10 21:58:00 -> Failed to write log file
+2024-03-10 22:01:15 -> Null pointer exception
+2024-03-10 22:01:45 -> Unhandled application exception
+2024-03-10 22:05:00 -> Null pointer exception
+2024-03-10 22:07:15 -> Database connection failed
+2024-03-10 22:16:30 -> Failed to write log file
+2024-03-10 22:19:15 -> Authentication service unavailable
+2024-03-10 22:23:00 -> Null pointer exception
+2024-03-10 22:25:00 -> Authentication service unavailable
+2024-03-10 22:29:00 -> Null pointer exception
+2024-03-10 22:32:15 -> Null pointer exception
+2024-03-10 22:32:45 -> Null pointer exception
+2024-03-10 22:42:15 -> Null pointer exception
+2024-03-10 22:43:15 -> Database connection failed
+2024-03-10 22:43:45 -> Unhandled application exception
+2024-03-10 22:59:00 -> Unhandled application exception
+2024-03-10 23:07:15 -> Database connection failed
+2024-03-10 23:11:15 -> Authentication service unavailable
+2024-03-10 23:14:30 -> Failed to write log file
+2024-03-10 23:14:45 -> Null pointer exception
+2024-03-10 23:20:15 -> Authentication service unavailable
+2024-03-10 23:21:30 -> Failed to write log file
+2024-03-10 23:31:45 -> Failed to write log file
+2024-03-10 23:33:15 -> Authentication service unavailable
+2024-03-10 23:35:00 -> Authentication service unavailable
+2024-03-10 23:38:00 -> Database connection failed
+2024-03-10 23:41:45 -> Database connection failed
+2024-03-10 23:49:00 -> Unhandled application exception
+2024-03-10 23:50:45 -> Authentication service unavailable
+2024-03-11 00:00:00 -> Database connection failed
+2024-03-11 00:11:15 -> Failed to write log file
+2024-03-11 00:16:30 -> Unhandled application exception
+2024-03-11 00:19:15 -> Failed to write log file
+2024-03-11 00:24:45 -> Authentication service unavailable
+2024-03-11 00:30:15 -> Database connection failed
+2024-03-11 00:39:00 -> Database connection failed
+2024-03-11 00:41:30 -> Failed to write log file
+2024-03-11 00:44:45 -> Authentication service unavailable
+2024-03-11 00:48:15 -> Authentication service unavailable
+2024-03-11 00:50:00 -> Unhandled application exception
+2024-03-11 00:54:15 -> Failed to write log file
+2024-03-11 00:56:30 -> Failed to write log file
+2024-03-11 00:58:45 -> Database connection failed
+2024-03-11 01:07:15 -> Database connection failed
+2024-03-11 01:09:45 -> Null pointer exception
+2024-03-11 01:17:30 -> Database connection failed
+2024-03-11 01:32:00 -> Null pointer exception
+2024-03-11 01:33:45 -> Failed to write log file
+2024-03-11 01:43:15 -> Authentication service unavailable
+2024-03-11 01:44:30 -> Failed to write log file
+2024-03-11 01:46:15 -> Null pointer exception
+2024-03-11 01:47:00 -> Failed to write log file
+2024-03-11 01:49:45 -> Failed to write log file
+2024-03-11 01:51:45 -> Null pointer exception
+2024-03-11 02:04:15 -> Failed to write log file
+2024-03-11 02:24:00 -> Unhandled application exception
+2024-03-11 02:27:15 -> Null pointer exception
+2024-03-11 02:32:45 -> Unhandled application exception
+2024-03-11 02:34:00 -> Null pointer exception
+2024-03-11 02:35:15 -> Null pointer exception
+2024-03-11 02:40:45 -> Failed to write log file
+2024-03-11 02:45:15 -> Authentication service unavailable
+2024-03-11 03:02:00 -> Failed to write log file
+2024-03-11 03:09:00 -> Unhandled application exception
+2024-03-11 03:15:15 -> Database connection failed
+2024-03-11 03:23:15 -> Authentication service unavailable
+2024-03-11 03:32:45 -> Authentication service unavailable
+2024-03-11 03:36:15 -> Unhandled application exception
+2024-03-11 03:39:45 -> Database connection failed
+2024-03-11 03:42:45 -> Failed to write log file
+2024-03-11 03:43:30 -> Null pointer exception
+2024-03-11 03:48:00 -> Null pointer exception
+2024-03-11 03:53:00 -> Authentication service unavailable
+2024-03-11 03:54:15 -> Database connection failed
+2024-03-11 04:05:30 -> Null pointer exception
+2024-03-11 04:08:30 -> Authentication service unavailable
+2024-03-11 04:11:15 -> Null pointer exception
+2024-03-11 04:13:30 -> Null pointer exception
+2024-03-11 04:16:15 -> Database connection failed
+2024-03-11 04:16:45 -> Failed to write log file
+2024-03-11 04:18:15 -> Null pointer exception
+2024-03-11 04:20:45 -> Null pointer exception
+2024-03-11 04:21:30 -> Null pointer exception
+2024-03-11 04:24:15 -> Unhandled application exception
+2024-03-11 04:33:15 -> Authentication service unavailable
+2024-03-11 04:37:45 -> Null pointer exception
+2024-03-11 04:39:30 -> Failed to write log file
+2024-03-11 04:46:15 -> Authentication service unavailable
+2024-03-11 04:47:30 -> Database connection failed
+2024-03-11 04:55:15 -> Authentication service unavailable
+2024-03-11 05:00:30 -> Unhandled application exception
+2024-03-11 05:03:00 -> Database connection failed
+2024-03-11 05:15:15 -> Unhandled application exception
+2024-03-11 05:19:45 -> Null pointer exception
+2024-03-11 05:20:30 -> Unhandled application exception
+2024-03-11 05:21:00 -> Database connection failed
+2024-03-11 05:22:30 -> Failed to write log file
+2024-03-11 05:31:00 -> Authentication service unavailable
+2024-03-11 05:34:45 -> Unhandled application exception
+2024-03-11 05:37:15 -> Authentication service unavailable
+2024-03-11 05:39:15 -> Failed to write log file
+2024-03-11 05:39:30 -> Failed to write log file
+2024-03-11 05:47:45 -> Null pointer exception
+2024-03-11 05:50:45 -> Failed to write log file
+2024-03-11 05:55:15 -> Null pointer exception
+2024-03-11 06:03:30 -> Authentication service unavailable
+2024-03-11 06:06:00 -> Failed to write log file
+2024-03-11 06:16:45 -> Database connection failed
+2024-03-11 06:25:15 -> Authentication service unavailable
+2024-03-11 06:28:45 -> Authentication service unavailable
+2024-03-11 06:31:00 -> Null pointer exception
+2024-03-11 06:32:30 -> Database connection failed
+2024-03-11 06:37:15 -> Failed to write log file
+2024-03-11 06:51:30 -> Database connection failed
+2024-03-11 07:00:00 -> Authentication service unavailable
+2024-03-11 07:09:15 -> Authentication service unavailable
+2024-03-11 07:11:00 -> Authentication service unavailable
+2024-03-11 07:14:45 -> Failed to write log file
+2024-03-11 07:16:15 -> Null pointer exception
+2024-03-11 07:20:15 -> Unhandled application exception
+2024-03-11 07:26:45 -> Failed to write log file
+2024-03-11 07:29:30 -> Failed to write log file
+2024-03-11 07:35:45 -> Database connection failed
+2024-03-11 07:51:15 -> Null pointer exception
+2024-03-11 07:55:30 -> Unhandled application exception
+2024-03-11 07:56:15 -> Failed to write log file
+2024-03-11 07:58:30 -> Database connection failed
+2024-03-11 08:03:30 -> Authentication service unavailable
+2024-03-11 08:08:00 -> Unhandled application exception
+2024-03-11 08:24:00 -> Unhandled application exception
+2024-03-11 08:27:45 -> Database connection failed
+2024-03-11 08:41:15 -> Failed to write log file
+2024-03-11 08:42:00 -> Null pointer exception
+2024-03-11 08:51:00 -> Null pointer exception
+2024-03-11 08:54:45 -> Authentication service unavailable
+2024-03-11 09:06:30 -> Null pointer exception
+2024-03-11 09:08:15 -> Authentication service unavailable
+2024-03-11 09:19:00 -> Authentication service unavailable
+2024-03-11 09:33:45 -> Unhandled application exception
+2024-03-11 09:48:30 -> Unhandled application exception
+2024-03-11 09:54:00 -> Null pointer exception
+2024-03-11 09:56:15 -> Unhandled application exception
+2024-03-11 09:56:30 -> Authentication service unavailable
+2024-03-11 09:56:45 -> Authentication service unavailable
+2024-03-11 10:00:00 -> Null pointer exception
+2024-03-11 10:03:00 -> Null pointer exception
+2024-03-11 10:03:45 -> Failed to write log file
+2024-03-11 10:05:15 -> Null pointer exception
+2024-03-11 10:05:45 -> Database connection failed
+2024-03-11 10:07:30 -> Database connection failed
+2024-03-11 10:10:30 -> Unhandled application exception
+2024-03-11 10:12:15 -> Database connection failed
+2024-03-11 10:15:30 -> Authentication service unavailable
+2024-03-11 10:16:45 -> Failed to write log file
+2024-03-11 10:18:15 -> Failed to write log file
+2024-03-11 10:25:30 -> Authentication service unavailable
+2024-03-11 10:26:15 -> Database connection failed
+2024-03-11 10:27:00 -> Unhandled application exception
+2024-03-11 10:27:45 -> Database connection failed
+2024-03-11 10:29:30 -> Database connection failed
+2024-03-11 10:32:30 -> Authentication service unavailable
+2024-03-11 10:38:45 -> Unhandled application exception
+2024-03-11 10:47:30 -> Failed to write log file
+2024-03-11 10:47:45 -> Null pointer exception
+2024-03-11 11:01:30 -> Null pointer exception
+2024-03-11 11:08:45 -> Authentication service unavailable
+2024-03-11 11:10:00 -> Null pointer exception
+2024-03-11 11:17:30 -> Failed to write log file
+2024-03-11 11:24:00 -> Database connection failed
+2024-03-11 11:24:45 -> Unhandled application exception
+2024-03-11 11:28:45 -> Null pointer exception
+2024-03-11 11:37:15 -> Authentication service unavailable
+2024-03-11 11:42:30 -> Database connection failed
+2024-03-11 11:44:00 -> Unhandled application exception
+2024-03-11 11:48:00 -> Database connection failed
+2024-03-11 11:53:45 -> Unhandled application exception
+2024-03-11 11:54:45 -> Authentication service unavailable
+2024-03-11 11:59:30 -> Unhandled application exception
+2024-03-11 12:01:30 -> Null pointer exception
+2024-03-11 12:03:15 -> Failed to write log file
+2024-03-11 12:07:30 -> Unhandled application exception
+2024-03-11 12:10:00 -> Authentication service unavailable
+2024-03-11 12:20:30 -> Database connection failed
+2024-03-11 12:39:15 -> Failed to write log file
+2024-03-11 12:47:00 -> Database connection failed
+2024-03-11 12:57:45 -> Null pointer exception
+2024-03-11 12:59:45 -> Failed to write log file
+2024-03-11 13:00:15 -> Unhandled application exception
+2024-03-11 13:02:45 -> Database connection failed
+2024-03-11 13:03:15 -> Database connection failed
+2024-03-11 13:03:30 -> Unhandled application exception
+2024-03-11 13:22:15 -> Database connection failed
+2024-03-11 13:23:15 -> Failed to write log file
+2024-03-11 13:26:30 -> Database connection failed
+2024-03-11 13:26:45 -> Unhandled application exception
+2024-03-11 13:33:00 -> Failed to write log file
+2024-03-11 13:38:30 -> Failed to write log file
+2024-03-11 13:43:30 -> Failed to write log file
+2024-03-11 13:47:45 -> Failed to write log file
+2024-03-11 13:58:15 -> Null pointer exception
+2024-03-11 13:59:00 -> Authentication service unavailable
+2024-03-11 14:03:45 -> Failed to write log file
+2024-03-11 14:08:15 -> Authentication service unavailable
+2024-03-11 14:15:30 -> Authentication service unavailable
+2024-03-11 14:21:00 -> Unhandled application exception
+2024-03-11 14:22:00 -> Failed to write log file
+2024-03-11 14:43:15 -> Database connection failed
+2024-03-11 14:46:00 -> Null pointer exception
+2024-03-11 14:47:00 -> Failed to write log file
+2024-03-11 14:48:15 -> Failed to write log file
+2024-03-11 14:50:00 -> Authentication service unavailable
+2024-03-11 14:51:30 -> Database connection failed
+2024-03-11 14:56:45 -> Authentication service unavailable
+2024-03-11 15:07:00 -> Authentication service unavailable
+2024-03-11 15:18:00 -> Authentication service unavailable
+2024-03-11 15:21:30 -> Failed to write log file
+2024-03-11 15:40:00 -> Authentication service unavailable
+2024-03-11 16:08:00 -> Failed to write log file
+2024-03-11 16:09:45 -> Failed to write log file
+2024-03-11 16:10:30 -> Database connection failed
+2024-03-11 16:13:15 -> Database connection failed
+2024-03-11 16:13:30 -> Null pointer exception
+2024-03-11 16:19:30 -> Failed to write log file
+2024-03-11 16:23:30 -> Authentication service unavailable
+2024-03-11 16:24:45 -> Failed to write log file
+2024-03-11 16:30:30 -> Authentication service unavailable
+2024-03-11 16:34:15 -> Database connection failed
+2024-03-11 16:36:15 -> Null pointer exception
+2024-03-11 16:40:15 -> Authentication service unavailable
+2024-03-11 16:42:45 -> Unhandled application exception
+2024-03-11 16:43:15 -> Database connection failed
+2024-03-11 16:45:15 -> Authentication service unavailable
+2024-03-11 17:01:15 -> Failed to write log file
+2024-03-11 17:08:30 -> Unhandled application exception
+2024-03-11 17:09:15 -> Authentication service unavailable
+2024-03-11 17:12:30 -> Database connection failed
+2024-03-11 17:13:30 -> Failed to write log file
+2024-03-11 17:18:15 -> Failed to write log file
+2024-03-11 17:18:30 -> Null pointer exception
+2024-03-11 17:19:30 -> Authentication service unavailable
+2024-03-11 17:21:30 -> Unhandled application exception
+2024-03-11 17:30:30 -> Failed to write log file
+2024-03-11 17:31:00 -> Unhandled application exception
+2024-03-11 17:34:45 -> Unhandled application exception
+2024-03-11 17:53:00 -> Authentication service unavailable
+2024-03-11 17:54:45 -> Null pointer exception
+2024-03-11 17:57:30 -> Null pointer exception
+2024-03-11 17:59:30 -> Null pointer exception
+2024-03-11 18:02:15 -> Failed to write log file
+2024-03-11 18:06:45 -> Database connection failed
+2024-03-11 18:21:15 -> Database connection failed
+2024-03-11 18:29:30 -> Unhandled application exception
+2024-03-11 18:30:30 -> Failed to write log file
+2024-03-11 18:34:00 -> Authentication service unavailable
+2024-03-11 18:50:00 -> Failed to write log file
+2024-03-11 19:05:30 -> Failed to write log file
+2024-03-11 19:06:30 -> Unhandled application exception
+2024-03-11 19:08:30 -> Unhandled application exception
+2024-03-11 19:16:15 -> Failed to write log file
+2024-03-11 19:22:00 -> Authentication service unavailable
+2024-03-11 19:30:45 -> Failed to write log file
+2024-03-11 19:36:00 -> Database connection failed
+2024-03-11 19:37:30 -> Database connection failed
+2024-03-11 19:50:00 -> Null pointer exception
+2024-03-11 19:58:45 -> Authentication service unavailable
+2024-03-11 20:03:30 -> Database connection failed
+2024-03-11 20:05:30 -> Database connection failed
+2024-03-11 20:09:00 -> Null pointer exception
+2024-03-11 20:11:30 -> Authentication service unavailable
+2024-03-11 20:14:15 -> Null pointer exception
+2024-03-11 20:16:00 -> Database connection failed
+2024-03-11 20:19:15 -> Authentication service unavailable
+2024-03-11 20:20:00 -> Null pointer exception
+2024-03-11 20:21:00 -> Authentication service unavailable
+2024-03-11 20:27:00 -> Unhandled application exception
+2024-03-11 20:29:30 -> Authentication service unavailable
+2024-03-11 20:44:15 -> Unhandled application exception
+2024-03-11 20:55:15 -> Null pointer exception
+2024-03-11 20:56:30 -> Authentication service unavailable
+2024-03-11 21:06:30 -> Unhandled application exception
+2024-03-11 21:11:00 -> Null pointer exception
+2024-03-11 21:13:15 -> Null pointer exception
+2024-03-11 21:22:00 -> Database connection failed
+2024-03-11 21:26:45 -> Failed to write log file
+2024-03-11 21:37:45 -> Authentication service unavailable
+2024-03-11 21:40:15 -> Null pointer exception
+2024-03-11 21:43:30 -> Unhandled application exception
+2024-03-11 21:48:45 -> Unhandled application exception
+2024-03-11 21:54:30 -> Failed to write log file
+2024-03-11 21:57:15 -> Database connection failed
+2024-03-11 21:57:30 -> Authentication service unavailable
+2024-03-11 22:01:00 -> Unhandled application exception
+2024-03-11 22:04:00 -> Null pointer exception
+2024-03-11 22:08:00 -> Null pointer exception
+2024-03-11 22:10:45 -> Authentication service unavailable
+2024-03-11 22:13:00 -> Authentication service unavailable
+2024-03-11 22:17:45 -> Unhandled application exception
+2024-03-11 22:35:30 -> Failed to write log file
+2024-03-11 22:35:45 -> Database connection failed
+2024-03-11 22:39:00 -> Database connection failed
+2024-03-11 22:39:45 -> Database connection failed
+2024-03-11 22:44:15 -> Database connection failed
+2024-03-11 22:48:15 -> Authentication service unavailable
+2024-03-11 22:55:00 -> Database connection failed
+2024-03-11 23:11:45 -> Database connection failed
+2024-03-11 23:12:00 -> Authentication service unavailable
+2024-03-11 23:21:45 -> Failed to write log file
+2024-03-11 23:22:45 -> Failed to write log file
+2024-03-11 23:40:30 -> Null pointer exception
+2024-03-11 23:48:00 -> Authentication service unavailable
+2024-03-11 23:54:45 -> Authentication service unavailable
+2024-03-11 23:55:30 -> Authentication service unavailable
+2024-03-12 00:04:15 -> Null pointer exception
+2024-03-12 00:09:15 -> Authentication service unavailable
+2024-03-12 00:13:30 -> Failed to write log file
+2024-03-12 00:14:00 -> Null pointer exception
+2024-03-12 00:14:15 -> Failed to write log file
+2024-03-12 00:16:45 -> Null pointer exception
+2024-03-12 00:17:15 -> Unhandled application exception
+2024-03-12 00:22:30 -> Null pointer exception
+2024-03-12 00:28:00 -> Failed to write log file
+2024-03-12 00:29:00 -> Failed to write log file
+2024-03-12 00:29:15 -> Authentication service unavailable
+2024-03-12 00:31:00 -> Failed to write log file
+2024-03-12 00:41:15 -> Null pointer exception
+2024-03-12 00:44:00 -> Failed to write log file
+2024-03-12 00:54:45 -> Failed to write log file
+2024-03-12 00:55:30 -> Unhandled application exception
+2024-03-12 01:01:30 -> Unhandled application exception
+2024-03-12 01:05:45 -> Database connection failed
+2024-03-12 01:19:30 -> Unhandled application exception
+2024-03-12 01:20:15 -> Null pointer exception
+2024-03-12 01:27:45 -> Failed to write log file
+2024-03-12 01:30:45 -> Failed to write log file
+2024-03-12 01:41:45 -> Failed to write log file
+2024-03-12 01:46:00 -> Authentication service unavailable
+2024-03-12 01:50:00 -> Database connection failed
+2024-03-12 01:50:30 -> Authentication service unavailable
+2024-03-12 01:51:00 -> Failed to write log file
+2024-03-12 01:52:45 -> Database connection failed
+2024-03-12 01:58:15 -> Database connection failed
+2024-03-12 02:06:45 -> Database connection failed
+2024-03-12 02:13:15 -> Unhandled application exception
+2024-03-12 02:22:30 -> Authentication service unavailable
+2024-03-12 02:29:00 -> Database connection failed
+2024-03-12 02:31:00 -> Unhandled application exception
+2024-03-12 02:39:00 -> Database connection failed
+
+---WARNING DETAILS ---
+2024-03-10 09:02:00 -> Disk space for logs below 20 percent
+2024-03-10 09:02:30 -> Memory usage above threshold
+2024-03-10 09:02:45 -> Connection pool near limit 90 percent
+2024-03-10 09:03:15 -> API response delayed
+2024-03-10 09:05:00 -> Disk space for logs below 20 percent
+2024-03-10 09:08:00 -> Slow query detected taking 5 seconds
+2024-03-10 09:11:00 -> Connection pool near limit 90 percent
+2024-03-10 09:13:15 -> Disk space for logs below 20 percent
+2024-03-10 09:16:30 -> API response delayed
+2024-03-10 09:16:45 -> API response delayed
+2024-03-10 09:21:45 -> Memory usage above threshold
+2024-03-10 09:24:00 -> Slow query detected taking 5 seconds
+2024-03-10 09:26:30 -> API response delayed
+2024-03-10 09:26:45 -> Disk space for logs below 20 percent
+2024-03-10 09:30:15 -> Disk space for logs below 20 percent
+2024-03-10 09:31:15 -> Connection pool near limit 90 percent
+2024-03-10 09:33:30 -> API response delayed
+2024-03-10 09:34:00 -> Disk space for logs below 20 percent
+2024-03-10 09:34:15 -> API response delayed
+2024-03-10 09:37:45 -> Memory usage above threshold
+2024-03-10 09:39:15 -> Memory usage above threshold
+2024-03-10 09:39:30 -> Memory usage above threshold
+2024-03-10 09:39:45 -> API response delayed
+2024-03-10 09:42:45 -> API response delayed
+2024-03-10 09:43:45 -> Memory usage above threshold
+2024-03-10 09:48:15 -> API response delayed
+2024-03-10 09:49:30 -> Connection pool near limit 90 percent
+2024-03-10 09:50:00 -> Slow query detected taking 5 seconds
+2024-03-10 09:50:15 -> Slow query detected taking 5 seconds
+2024-03-10 09:51:00 -> Memory usage above threshold
+2024-03-10 09:51:45 -> API response delayed
+2024-03-10 09:52:15 -> Memory usage above threshold
+2024-03-10 09:52:30 -> API response delayed
+2024-03-10 09:54:00 -> Connection pool near limit 90 percent
+2024-03-10 09:55:30 -> Connection pool near limit 90 percent
+2024-03-10 09:56:00 -> Slow query detected taking 5 seconds
+2024-03-10 09:58:15 -> Disk space for logs below 20 percent
+2024-03-10 09:59:45 -> Connection pool near limit 90 percent
+2024-03-10 10:04:45 -> Memory usage above threshold
+2024-03-10 10:06:00 -> Memory usage above threshold
+2024-03-10 10:06:15 -> Disk space for logs below 20 percent
+2024-03-10 10:06:30 -> Connection pool near limit 90 percent
+2024-03-10 10:07:30 -> Slow query detected taking 5 seconds
+2024-03-10 10:07:45 -> Slow query detected taking 5 seconds
+2024-03-10 10:09:45 -> Disk space for logs below 20 percent
+2024-03-10 10:11:30 -> API response delayed
+2024-03-10 10:13:30 -> Slow query detected taking 5 seconds
+2024-03-10 10:14:00 -> Memory usage above threshold
+2024-03-10 10:14:30 -> Disk space for logs below 20 percent
+2024-03-10 10:16:00 -> Memory usage above threshold
+2024-03-10 10:16:30 -> Memory usage above threshold
+2024-03-10 10:17:15 -> API response delayed
+2024-03-10 10:19:45 -> Memory usage above threshold
+2024-03-10 10:22:00 -> Connection pool near limit 90 percent
+2024-03-10 10:22:30 -> Memory usage above threshold
+2024-03-10 10:23:00 -> Disk space for logs below 20 percent
+2024-03-10 10:23:15 -> Slow query detected taking 5 seconds
+2024-03-10 10:23:30 -> Connection pool near limit 90 percent
+2024-03-10 10:24:15 -> Memory usage above threshold
+2024-03-10 10:27:00 -> Connection pool near limit 90 percent
+2024-03-10 10:27:30 -> Memory usage above threshold
+2024-03-10 10:28:15 -> Connection pool near limit 90 percent
+2024-03-10 10:36:00 -> Slow query detected taking 5 seconds
+2024-03-10 10:36:15 -> Connection pool near limit 90 percent
+2024-03-10 10:37:15 -> Disk space for logs below 20 percent
+2024-03-10 10:40:45 -> Memory usage above threshold
+2024-03-10 10:41:45 -> Connection pool near limit 90 percent
+2024-03-10 10:43:30 -> API response delayed
+2024-03-10 10:45:00 -> Slow query detected taking 5 seconds
+2024-03-10 10:46:00 -> Slow query detected taking 5 seconds
+2024-03-10 10:47:30 -> Slow query detected taking 5 seconds
+2024-03-10 10:49:00 -> Connection pool near limit 90 percent
+2024-03-10 10:50:15 -> Slow query detected taking 5 seconds
+2024-03-10 10:51:00 -> Slow query detected taking 5 seconds
+2024-03-10 10:52:00 -> Connection pool near limit 90 percent
+2024-03-10 10:52:30 -> Connection pool near limit 90 percent
+2024-03-10 10:54:00 -> Connection pool near limit 90 percent
+2024-03-10 10:56:30 -> Connection pool near limit 90 percent
+2024-03-10 11:03:15 -> Slow query detected taking 5 seconds
+2024-03-10 11:06:00 -> API response delayed
+2024-03-10 11:07:45 -> Disk space for logs below 20 percent
+2024-03-10 11:13:30 -> Memory usage above threshold
+2024-03-10 11:21:45 -> Memory usage above threshold
+2024-03-10 11:24:00 -> Slow query detected taking 5 seconds
+2024-03-10 11:29:45 -> API response delayed
+2024-03-10 11:30:15 -> Disk space for logs below 20 percent
+2024-03-10 11:31:30 -> Slow query detected taking 5 seconds
+2024-03-10 11:34:00 -> API response delayed
+2024-03-10 11:34:45 -> Memory usage above threshold
+2024-03-10 11:35:30 -> Connection pool near limit 90 percent
+2024-03-10 11:38:45 -> API response delayed
+2024-03-10 11:39:45 -> Disk space for logs below 20 percent
+2024-03-10 11:40:00 -> Connection pool near limit 90 percent
+2024-03-10 11:43:45 -> Connection pool near limit 90 percent
+2024-03-10 11:45:00 -> Slow query detected taking 5 seconds
+2024-03-10 11:45:30 -> API response delayed
+2024-03-10 11:47:15 -> API response delayed
+2024-03-10 11:47:45 -> API response delayed
+2024-03-10 11:48:00 -> Connection pool near limit 90 percent
+2024-03-10 11:50:15 -> Memory usage above threshold
+2024-03-10 11:50:30 -> Slow query detected taking 5 seconds
+2024-03-10 11:52:15 -> Memory usage above threshold
+2024-03-10 11:53:45 -> Slow query detected taking 5 seconds
+2024-03-10 11:54:45 -> API response delayed
+2024-03-10 11:56:15 -> Slow query detected taking 5 seconds
+2024-03-10 11:58:00 -> Memory usage above threshold
+2024-03-10 11:58:30 -> API response delayed
+2024-03-10 12:00:00 -> Disk space for logs below 20 percent
+2024-03-10 12:01:45 -> Connection pool near limit 90 percent
+2024-03-10 12:04:45 -> Memory usage above threshold
+2024-03-10 12:06:30 -> API response delayed
+2024-03-10 12:11:30 -> Slow query detected taking 5 seconds
+2024-03-10 12:12:00 -> Memory usage above threshold
+2024-03-10 12:14:30 -> Slow query detected taking 5 seconds
+2024-03-10 12:18:15 -> Disk space for logs below 20 percent
+2024-03-10 12:20:45 -> Memory usage above threshold
+2024-03-10 12:21:30 -> Disk space for logs below 20 percent
+2024-03-10 12:22:30 -> API response delayed
+2024-03-10 12:23:15 -> Connection pool near limit 90 percent
+2024-03-10 12:25:00 -> Slow query detected taking 5 seconds
+2024-03-10 12:25:15 -> API response delayed
+2024-03-10 12:27:00 -> Connection pool near limit 90 percent
+2024-03-10 12:30:00 -> API response delayed
+2024-03-10 12:32:15 -> Connection pool near limit 90 percent
+2024-03-10 12:32:45 -> Connection pool near limit 90 percent
+2024-03-10 12:33:30 -> Disk space for logs below 20 percent
+2024-03-10 12:35:15 -> Slow query detected taking 5 seconds
+2024-03-10 12:39:45 -> Disk space for logs below 20 percent
+2024-03-10 12:40:45 -> Connection pool near limit 90 percent
+2024-03-10 12:41:15 -> Connection pool near limit 90 percent
+2024-03-10 12:45:00 -> Disk space for logs below 20 percent
+2024-03-10 12:47:45 -> API response delayed
+2024-03-10 12:48:15 -> Slow query detected taking 5 seconds
+2024-03-10 12:48:45 -> Memory usage above threshold
+2024-03-10 12:55:15 -> Connection pool near limit 90 percent
+2024-03-10 12:55:45 -> Slow query detected taking 5 seconds
+2024-03-10 12:57:00 -> Memory usage above threshold
+2024-03-10 12:58:45 -> Memory usage above threshold
+2024-03-10 13:02:00 -> API response delayed
+2024-03-10 13:02:15 -> Connection pool near limit 90 percent
+2024-03-10 13:04:30 -> Memory usage above threshold
+2024-03-10 13:05:30 -> Disk space for logs below 20 percent
+2024-03-10 13:06:00 -> Memory usage above threshold
+2024-03-10 13:06:30 -> Memory usage above threshold
+2024-03-10 13:06:45 -> Slow query detected taking 5 seconds
+2024-03-10 13:07:30 -> Slow query detected taking 5 seconds
+2024-03-10 13:07:45 -> Memory usage above threshold
+2024-03-10 13:09:15 -> API response delayed
+2024-03-10 13:18:45 -> Connection pool near limit 90 percent
+2024-03-10 13:21:45 -> Slow query detected taking 5 seconds
+2024-03-10 13:23:45 -> API response delayed
+2024-03-10 13:30:15 -> API response delayed
+2024-03-10 13:31:30 -> Connection pool near limit 90 percent
+2024-03-10 13:31:45 -> API response delayed
+2024-03-10 13:32:30 -> Slow query detected taking 5 seconds
+2024-03-10 13:33:30 -> Slow query detected taking 5 seconds
+2024-03-10 13:35:30 -> Disk space for logs below 20 percent
+2024-03-10 13:37:30 -> API response delayed
+2024-03-10 13:38:30 -> Connection pool near limit 90 percent
+2024-03-10 13:42:00 -> Memory usage above threshold
+2024-03-10 13:42:15 -> Disk space for logs below 20 percent
+2024-03-10 13:42:30 -> API response delayed
+2024-03-10 13:43:00 -> Disk space for logs below 20 percent
+2024-03-10 13:43:15 -> Connection pool near limit 90 percent
+2024-03-10 13:44:00 -> Connection pool near limit 90 percent
+2024-03-10 13:44:15 -> Disk space for logs below 20 percent
+2024-03-10 13:47:00 -> Slow query detected taking 5 seconds
+2024-03-10 13:50:45 -> Slow query detected taking 5 seconds
+2024-03-10 13:54:00 -> Disk space for logs below 20 percent
+2024-03-10 13:56:30 -> Memory usage above threshold
+2024-03-10 13:57:00 -> Slow query detected taking 5 seconds
+2024-03-10 14:01:15 -> API response delayed
+2024-03-10 14:02:00 -> Connection pool near limit 90 percent
+2024-03-10 14:02:30 -> Connection pool near limit 90 percent
+2024-03-10 14:03:00 -> Memory usage above threshold
+2024-03-10 14:05:15 -> Memory usage above threshold
+2024-03-10 14:05:30 -> Disk space for logs below 20 percent
+2024-03-10 14:05:45 -> Memory usage above threshold
+2024-03-10 14:06:45 -> Disk space for logs below 20 percent
+2024-03-10 14:10:30 -> Slow query detected taking 5 seconds
+2024-03-10 14:12:00 -> Slow query detected taking 5 seconds
+2024-03-10 14:13:30 -> Disk space for logs below 20 percent
+2024-03-10 14:14:30 -> API response delayed
+2024-03-10 14:15:15 -> Connection pool near limit 90 percent
+2024-03-10 14:16:30 -> Memory usage above threshold
+2024-03-10 14:19:15 -> Connection pool near limit 90 percent
+2024-03-10 14:20:45 -> Disk space for logs below 20 percent
+2024-03-10 14:24:00 -> Connection pool near limit 90 percent
+2024-03-10 14:28:45 -> Connection pool near limit 90 percent
+2024-03-10 14:31:00 -> Connection pool near limit 90 percent
+2024-03-10 14:31:15 -> Connection pool near limit 90 percent
+2024-03-10 14:34:30 -> Slow query detected taking 5 seconds
+2024-03-10 14:35:00 -> Memory usage above threshold
+2024-03-10 14:36:15 -> Memory usage above threshold
+2024-03-10 14:37:15 -> Memory usage above threshold
+2024-03-10 14:37:30 -> Disk space for logs below 20 percent
+2024-03-10 14:38:00 -> Memory usage above threshold
+2024-03-10 14:39:15 -> Slow query detected taking 5 seconds
+2024-03-10 14:41:15 -> Connection pool near limit 90 percent
+2024-03-10 14:42:30 -> Disk space for logs below 20 percent
+2024-03-10 14:43:15 -> API response delayed
+2024-03-10 14:43:45 -> Memory usage above threshold
+2024-03-10 14:44:45 -> Slow query detected taking 5 seconds
+2024-03-10 14:47:00 -> Memory usage above threshold
+2024-03-10 14:48:30 -> Memory usage above threshold
+2024-03-10 14:49:15 -> API response delayed
+2024-03-10 14:49:45 -> Disk space for logs below 20 percent
+2024-03-10 14:50:00 -> Disk space for logs below 20 percent
+2024-03-10 14:50:15 -> API response delayed
+2024-03-10 14:50:45 -> Connection pool near limit 90 percent
+2024-03-10 14:51:00 -> Connection pool near limit 90 percent
+2024-03-10 14:53:45 -> API response delayed
+2024-03-10 14:54:15 -> Slow query detected taking 5 seconds
+2024-03-10 14:55:00 -> API response delayed
+2024-03-10 15:00:30 -> API response delayed
+2024-03-10 15:01:00 -> API response delayed
+2024-03-10 15:01:30 -> Connection pool near limit 90 percent
+2024-03-10 15:03:15 -> Connection pool near limit 90 percent
+2024-03-10 15:07:15 -> Slow query detected taking 5 seconds
+2024-03-10 15:08:45 -> Slow query detected taking 5 seconds
+2024-03-10 15:11:00 -> Memory usage above threshold
+2024-03-10 15:11:30 -> Memory usage above threshold
+2024-03-10 15:12:15 -> Memory usage above threshold
+2024-03-10 15:13:00 -> API response delayed
+2024-03-10 15:14:30 -> Memory usage above threshold
+2024-03-10 15:16:30 -> Disk space for logs below 20 percent
+2024-03-10 15:17:00 -> Memory usage above threshold
+2024-03-10 15:19:30 -> Disk space for logs below 20 percent
+2024-03-10 15:20:45 -> Connection pool near limit 90 percent
+2024-03-10 15:23:45 -> API response delayed
+2024-03-10 15:29:30 -> Slow query detected taking 5 seconds
+2024-03-10 15:31:00 -> API response delayed
+2024-03-10 15:31:45 -> Connection pool near limit 90 percent
+2024-03-10 15:33:00 -> API response delayed
+2024-03-10 15:36:00 -> Disk space for logs below 20 percent
+2024-03-10 15:36:15 -> Memory usage above threshold
+2024-03-10 15:38:30 -> Slow query detected taking 5 seconds
+2024-03-10 15:42:45 -> API response delayed
+2024-03-10 15:43:00 -> Connection pool near limit 90 percent
+2024-03-10 15:43:30 -> Disk space for logs below 20 percent
+2024-03-10 15:46:15 -> Memory usage above threshold
+2024-03-10 15:47:45 -> Connection pool near limit 90 percent
+2024-03-10 15:50:30 -> Connection pool near limit 90 percent
+2024-03-10 15:52:00 -> Disk space for logs below 20 percent
+2024-03-10 15:52:45 -> API response delayed
+2024-03-10 15:55:45 -> Disk space for logs below 20 percent
+2024-03-10 15:57:30 -> Connection pool near limit 90 percent
+2024-03-10 15:58:30 -> Connection pool near limit 90 percent
+2024-03-10 16:00:30 -> Slow query detected taking 5 seconds
+2024-03-10 16:02:30 -> Connection pool near limit 90 percent
+2024-03-10 16:02:45 -> Memory usage above threshold
+2024-03-10 16:07:30 -> Connection pool near limit 90 percent
+2024-03-10 16:12:00 -> Slow query detected taking 5 seconds
+2024-03-10 16:17:00 -> Memory usage above threshold
+2024-03-10 16:20:15 -> API response delayed
+2024-03-10 16:21:30 -> API response delayed
+2024-03-10 16:24:30 -> Disk space for logs below 20 percent
+2024-03-10 16:24:45 -> API response delayed
+2024-03-10 16:25:00 -> Slow query detected taking 5 seconds
+2024-03-10 16:26:00 -> Memory usage above threshold
+2024-03-10 16:28:00 -> API response delayed
+2024-03-10 16:28:45 -> Disk space for logs below 20 percent
+2024-03-10 16:29:15 -> Slow query detected taking 5 seconds
+2024-03-10 16:29:45 -> Connection pool near limit 90 percent
+2024-03-10 16:31:00 -> API response delayed
+2024-03-10 16:32:00 -> Disk space for logs below 20 percent
+2024-03-10 16:32:30 -> API response delayed
+2024-03-10 16:33:30 -> Connection pool near limit 90 percent
+2024-03-10 16:33:45 -> Connection pool near limit 90 percent
+2024-03-10 16:34:30 -> Slow query detected taking 5 seconds
+2024-03-10 16:40:00 -> API response delayed
+2024-03-10 16:45:45 -> Memory usage above threshold
+2024-03-10 16:48:00 -> Slow query detected taking 5 seconds
+2024-03-10 16:51:30 -> Disk space for logs below 20 percent
+2024-03-10 16:54:00 -> Disk space for logs below 20 percent
+2024-03-10 16:56:30 -> Connection pool near limit 90 percent
+2024-03-10 16:56:45 -> Disk space for logs below 20 percent
+2024-03-10 16:58:00 -> Disk space for logs below 20 percent
+2024-03-10 17:00:00 -> Slow query detected taking 5 seconds
+2024-03-10 17:00:15 -> Disk space for logs below 20 percent
+2024-03-10 17:01:00 -> API response delayed
+2024-03-10 17:06:15 -> Disk space for logs below 20 percent
+2024-03-10 17:12:45 -> Slow query detected taking 5 seconds
+2024-03-10 17:14:45 -> Slow query detected taking 5 seconds
+2024-03-10 17:15:45 -> Slow query detected taking 5 seconds
+2024-03-10 17:16:00 -> Connection pool near limit 90 percent
+2024-03-10 17:17:00 -> API response delayed
+2024-03-10 17:17:30 -> Disk space for logs below 20 percent
+2024-03-10 17:22:45 -> Memory usage above threshold
+2024-03-10 17:23:00 -> Memory usage above threshold
+2024-03-10 17:29:00 -> API response delayed
+2024-03-10 17:35:00 -> Slow query detected taking 5 seconds
+2024-03-10 17:37:15 -> Memory usage above threshold
+2024-03-10 17:40:30 -> Slow query detected taking 5 seconds
+2024-03-10 17:42:45 -> Slow query detected taking 5 seconds
+2024-03-10 17:43:30 -> Memory usage above threshold
+2024-03-10 17:44:30 -> Memory usage above threshold
+2024-03-10 17:49:45 -> Slow query detected taking 5 seconds
+2024-03-10 17:50:00 -> Memory usage above threshold
+2024-03-10 17:51:30 -> Connection pool near limit 90 percent
+2024-03-10 17:53:00 -> Slow query detected taking 5 seconds
+2024-03-10 17:58:00 -> Slow query detected taking 5 seconds
+2024-03-10 17:59:15 -> API response delayed
+2024-03-10 17:59:45 -> API response delayed
+2024-03-10 18:00:30 -> Slow query detected taking 5 seconds
+2024-03-10 18:04:00 -> Slow query detected taking 5 seconds
+2024-03-10 18:04:30 -> Memory usage above threshold
+2024-03-10 18:04:45 -> API response delayed
+2024-03-10 18:07:00 -> Slow query detected taking 5 seconds
+2024-03-10 18:07:15 -> API response delayed
+2024-03-10 18:12:15 -> Disk space for logs below 20 percent
+2024-03-10 18:13:00 -> API response delayed
+2024-03-10 18:13:15 -> Disk space for logs below 20 percent
+2024-03-10 18:15:15 -> Memory usage above threshold
+2024-03-10 18:20:15 -> Disk space for logs below 20 percent
+2024-03-10 18:20:30 -> API response delayed
+2024-03-10 18:23:00 -> Connection pool near limit 90 percent
+2024-03-10 18:23:15 -> Slow query detected taking 5 seconds
+2024-03-10 18:26:15 -> API response delayed
+2024-03-10 18:27:00 -> Memory usage above threshold
+2024-03-10 18:29:45 -> Disk space for logs below 20 percent
+2024-03-10 18:30:30 -> API response delayed
+2024-03-10 18:32:30 -> Connection pool near limit 90 percent
+2024-03-10 18:32:45 -> API response delayed
+2024-03-10 18:34:30 -> Memory usage above threshold
+2024-03-10 18:35:15 -> Slow query detected taking 5 seconds
+2024-03-10 18:37:30 -> Disk space for logs below 20 percent
+2024-03-10 18:38:30 -> API response delayed
+2024-03-10 18:40:15 -> Disk space for logs below 20 percent
+2024-03-10 18:41:45 -> Connection pool near limit 90 percent
+2024-03-10 18:42:00 -> Memory usage above threshold
+2024-03-10 18:44:00 -> Memory usage above threshold
+2024-03-10 18:44:30 -> Disk space for logs below 20 percent
+2024-03-10 18:46:45 -> Memory usage above threshold
+2024-03-10 18:47:00 -> Slow query detected taking 5 seconds
+2024-03-10 18:47:30 -> Connection pool near limit 90 percent
+2024-03-10 18:50:45 -> Connection pool near limit 90 percent
+2024-03-10 18:51:00 -> Memory usage above threshold
+2024-03-10 18:52:15 -> Slow query detected taking 5 seconds
+2024-03-10 18:52:30 -> Connection pool near limit 90 percent
+2024-03-10 18:53:15 -> Disk space for logs below 20 percent
+2024-03-10 18:54:30 -> Memory usage above threshold
+2024-03-10 18:55:30 -> Disk space for logs below 20 percent
+2024-03-10 19:04:30 -> Connection pool near limit 90 percent
+2024-03-10 19:06:30 -> Connection pool near limit 90 percent
+2024-03-10 19:07:45 -> Memory usage above threshold
+2024-03-10 19:08:15 -> Memory usage above threshold
+2024-03-10 19:08:30 -> Memory usage above threshold
+2024-03-10 19:09:45 -> Connection pool near limit 90 percent
+2024-03-10 19:13:45 -> Connection pool near limit 90 percent
+2024-03-10 19:22:30 -> Connection pool near limit 90 percent
+2024-03-10 19:29:00 -> Disk space for logs below 20 percent
+2024-03-10 19:31:30 -> Slow query detected taking 5 seconds
+2024-03-10 19:32:30 -> Connection pool near limit 90 percent
+2024-03-10 19:36:15 -> API response delayed
+2024-03-10 19:36:30 -> Slow query detected taking 5 seconds
+2024-03-10 19:41:45 -> Memory usage above threshold
+2024-03-10 19:42:30 -> API response delayed
+2024-03-10 19:45:45 -> Slow query detected taking 5 seconds
+2024-03-10 19:50:15 -> Slow query detected taking 5 seconds
+2024-03-10 19:51:00 -> API response delayed
+2024-03-10 19:52:00 -> API response delayed
+2024-03-10 19:54:15 -> Disk space for logs below 20 percent
+2024-03-10 19:54:30 -> Slow query detected taking 5 seconds
+2024-03-10 19:55:15 -> API response delayed
+2024-03-10 19:56:15 -> Disk space for logs below 20 percent
+2024-03-10 19:57:30 -> Connection pool near limit 90 percent
+2024-03-10 19:59:00 -> Memory usage above threshold
+2024-03-10 20:00:30 -> API response delayed
+2024-03-10 20:00:45 -> Disk space for logs below 20 percent
+2024-03-10 20:06:00 -> API response delayed
+2024-03-10 20:06:45 -> Memory usage above threshold
+2024-03-10 20:07:45 -> API response delayed
+2024-03-10 20:09:45 -> API response delayed
+2024-03-10 20:11:15 -> Slow query detected taking 5 seconds
+2024-03-10 20:11:30 -> Memory usage above threshold
+2024-03-10 20:13:45 -> Memory usage above threshold
+2024-03-10 20:16:15 -> Memory usage above threshold
+2024-03-10 20:17:00 -> API response delayed
+2024-03-10 20:17:15 -> Connection pool near limit 90 percent
+2024-03-10 20:18:00 -> Memory usage above threshold
+2024-03-10 20:18:30 -> API response delayed
+2024-03-10 20:19:45 -> Connection pool near limit 90 percent
+2024-03-10 20:20:30 -> Memory usage above threshold
+2024-03-10 20:22:00 -> API response delayed
+2024-03-10 20:23:00 -> Connection pool near limit 90 percent
+2024-03-10 20:27:15 -> Disk space for logs below 20 percent
+2024-03-10 20:28:45 -> API response delayed
+2024-03-10 20:30:00 -> Connection pool near limit 90 percent
+2024-03-10 20:33:15 -> Disk space for logs below 20 percent
+2024-03-10 20:36:15 -> Disk space for logs below 20 percent
+2024-03-10 20:36:30 -> Connection pool near limit 90 percent
+2024-03-10 20:38:45 -> Connection pool near limit 90 percent
+2024-03-10 20:40:00 -> Disk space for logs below 20 percent
+2024-03-10 20:40:45 -> Disk space for logs below 20 percent
+2024-03-10 20:41:15 -> Slow query detected taking 5 seconds
+2024-03-10 20:46:15 -> Memory usage above threshold
+2024-03-10 20:50:45 -> Memory usage above threshold
+2024-03-10 20:53:45 -> Slow query detected taking 5 seconds
+2024-03-10 20:54:15 -> API response delayed
+2024-03-10 20:54:30 -> API response delayed
+2024-03-10 20:57:45 -> Slow query detected taking 5 seconds
+2024-03-10 20:58:45 -> Slow query detected taking 5 seconds
+2024-03-10 20:59:30 -> Memory usage above threshold
+2024-03-10 21:01:15 -> Memory usage above threshold
+2024-03-10 21:01:45 -> Disk space for logs below 20 percent
+2024-03-10 21:03:15 -> API response delayed
+2024-03-10 21:03:45 -> Disk space for logs below 20 percent
+2024-03-10 21:07:15 -> Disk space for logs below 20 percent
+2024-03-10 21:08:30 -> Memory usage above threshold
+2024-03-10 21:09:15 -> Disk space for logs below 20 percent
+2024-03-10 21:11:00 -> API response delayed
+2024-03-10 21:12:30 -> API response delayed
+2024-03-10 21:14:15 -> Slow query detected taking 5 seconds
+2024-03-10 21:14:30 -> Memory usage above threshold
+2024-03-10 21:15:45 -> API response delayed
+2024-03-10 21:17:15 -> Memory usage above threshold
+2024-03-10 21:17:45 -> API response delayed
+2024-03-10 21:19:30 -> Memory usage above threshold
+2024-03-10 21:20:15 -> Connection pool near limit 90 percent
+2024-03-10 21:23:30 -> Memory usage above threshold
+2024-03-10 21:24:15 -> API response delayed
+2024-03-10 21:26:45 -> Connection pool near limit 90 percent
+2024-03-10 21:27:30 -> Connection pool near limit 90 percent
+2024-03-10 21:28:15 -> API response delayed
+2024-03-10 21:32:00 -> Slow query detected taking 5 seconds
+2024-03-10 21:32:30 -> Slow query detected taking 5 seconds
+2024-03-10 21:33:00 -> Disk space for logs below 20 percent
+2024-03-10 21:35:30 -> Connection pool near limit 90 percent
+2024-03-10 21:39:30 -> Connection pool near limit 90 percent
+2024-03-10 21:43:00 -> API response delayed
+2024-03-10 21:43:30 -> API response delayed
+2024-03-10 21:44:45 -> Slow query detected taking 5 seconds
+2024-03-10 21:45:00 -> Memory usage above threshold
+2024-03-10 21:45:15 -> Connection pool near limit 90 percent
+2024-03-10 21:45:30 -> Connection pool near limit 90 percent
+2024-03-10 21:45:45 -> Connection pool near limit 90 percent
+2024-03-10 21:48:00 -> Disk space for logs below 20 percent
+2024-03-10 21:50:30 -> Slow query detected taking 5 seconds
+2024-03-10 21:55:00 -> Connection pool near limit 90 percent
+2024-03-10 21:59:45 -> Slow query detected taking 5 seconds
+2024-03-10 22:00:00 -> Slow query detected taking 5 seconds
+2024-03-10 22:01:30 -> Slow query detected taking 5 seconds
+2024-03-10 22:02:15 -> Disk space for logs below 20 percent
+2024-03-10 22:03:30 -> Connection pool near limit 90 percent
+2024-03-10 22:04:45 -> Connection pool near limit 90 percent
+2024-03-10 22:05:45 -> Slow query detected taking 5 seconds
+2024-03-10 22:06:00 -> Connection pool near limit 90 percent
+2024-03-10 22:09:15 -> Memory usage above threshold
+2024-03-10 22:11:30 -> API response delayed
+2024-03-10 22:15:00 -> Slow query detected taking 5 seconds
+2024-03-10 22:19:00 -> API response delayed
+2024-03-10 22:19:45 -> API response delayed
+2024-03-10 22:20:45 -> Disk space for logs below 20 percent
+2024-03-10 22:21:00 -> Connection pool near limit 90 percent
+2024-03-10 22:22:15 -> API response delayed
+2024-03-10 22:24:00 -> Connection pool near limit 90 percent
+2024-03-10 22:24:15 -> API response delayed
+2024-03-10 22:24:45 -> Memory usage above threshold
+2024-03-10 22:25:45 -> API response delayed
+2024-03-10 22:28:15 -> Connection pool near limit 90 percent
+2024-03-10 22:28:45 -> API response delayed
+2024-03-10 22:29:15 -> Memory usage above threshold
+2024-03-10 22:29:30 -> API response delayed
+2024-03-10 22:30:00 -> Connection pool near limit 90 percent
+2024-03-10 22:31:00 -> Connection pool near limit 90 percent
+2024-03-10 22:32:30 -> Connection pool near limit 90 percent
+2024-03-10 22:34:45 -> Disk space for logs below 20 percent
+2024-03-10 22:35:45 -> Memory usage above threshold
+2024-03-10 22:38:30 -> Connection pool near limit 90 percent
+2024-03-10 22:40:00 -> API response delayed
+2024-03-10 22:42:00 -> Connection pool near limit 90 percent
+2024-03-10 22:45:00 -> Disk space for logs below 20 percent
+2024-03-10 22:45:30 -> Slow query detected taking 5 seconds
+2024-03-10 22:45:45 -> Memory usage above threshold
+2024-03-10 22:48:00 -> Connection pool near limit 90 percent
+2024-03-10 22:51:00 -> Memory usage above threshold
+2024-03-10 22:51:15 -> Disk space for logs below 20 percent
+2024-03-10 22:53:30 -> Disk space for logs below 20 percent
+2024-03-10 22:56:45 -> Slow query detected taking 5 seconds
+2024-03-10 22:57:15 -> Connection pool near limit 90 percent
+2024-03-10 22:57:45 -> Memory usage above threshold
+2024-03-10 22:59:45 -> Memory usage above threshold
+2024-03-10 23:06:15 -> API response delayed
+2024-03-10 23:12:00 -> Disk space for logs below 20 percent
+2024-03-10 23:13:15 -> Slow query detected taking 5 seconds
+2024-03-10 23:16:45 -> API response delayed
+2024-03-10 23:18:45 -> Disk space for logs below 20 percent
+2024-03-10 23:20:30 -> API response delayed
+2024-03-10 23:21:45 -> Slow query detected taking 5 seconds
+2024-03-10 23:24:00 -> Connection pool near limit 90 percent
+2024-03-10 23:24:15 -> API response delayed
+2024-03-10 23:25:00 -> Memory usage above threshold
+2024-03-10 23:25:30 -> API response delayed
+2024-03-10 23:27:00 -> Connection pool near limit 90 percent
+2024-03-10 23:30:00 -> API response delayed
+2024-03-10 23:32:45 -> Disk space for logs below 20 percent
+2024-03-10 23:33:00 -> Slow query detected taking 5 seconds
+2024-03-10 23:33:45 -> Connection pool near limit 90 percent
+2024-03-10 23:34:15 -> Connection pool near limit 90 percent
+2024-03-10 23:36:00 -> Connection pool near limit 90 percent
+2024-03-10 23:39:00 -> Connection pool near limit 90 percent
+2024-03-10 23:45:00 -> Disk space for logs below 20 percent
+2024-03-10 23:46:30 -> Disk space for logs below 20 percent
+2024-03-10 23:48:00 -> Memory usage above threshold
+2024-03-10 23:49:30 -> Disk space for logs below 20 percent
+2024-03-10 23:50:30 -> Connection pool near limit 90 percent
+2024-03-10 23:52:30 -> Memory usage above threshold
+2024-03-10 23:52:45 -> Disk space for logs below 20 percent
+2024-03-10 23:53:45 -> Disk space for logs below 20 percent
+2024-03-10 23:55:00 -> Connection pool near limit 90 percent
+2024-03-10 23:56:45 -> Memory usage above threshold
+2024-03-10 23:57:30 -> API response delayed
+2024-03-10 23:58:30 -> API response delayed
+2024-03-10 23:59:00 -> Connection pool near limit 90 percent
+2024-03-11 00:03:00 -> Memory usage above threshold
+2024-03-11 00:08:00 -> Memory usage above threshold
+2024-03-11 00:11:00 -> Memory usage above threshold
+2024-03-11 00:15:30 -> Slow query detected taking 5 seconds
+2024-03-11 00:16:45 -> API response delayed
+2024-03-11 00:22:15 -> Connection pool near limit 90 percent
+2024-03-11 00:24:30 -> Disk space for logs below 20 percent
+2024-03-11 00:25:00 -> Memory usage above threshold
+2024-03-11 00:25:45 -> Memory usage above threshold
+2024-03-11 00:27:30 -> API response delayed
+2024-03-11 00:27:45 -> API response delayed
+2024-03-11 00:29:00 -> Connection pool near limit 90 percent
+2024-03-11 00:29:30 -> Slow query detected taking 5 seconds
+2024-03-11 00:30:00 -> API response delayed
+2024-03-11 00:31:00 -> API response delayed
+2024-03-11 00:31:45 -> API response delayed
+2024-03-11 00:35:15 -> Disk space for logs below 20 percent
+2024-03-11 00:38:15 -> Disk space for logs below 20 percent
+2024-03-11 00:39:15 -> Slow query detected taking 5 seconds
+2024-03-11 00:40:30 -> Connection pool near limit 90 percent
+2024-03-11 00:41:15 -> Slow query detected taking 5 seconds
+2024-03-11 00:42:30 -> Connection pool near limit 90 percent
+2024-03-11 00:44:15 -> API response delayed
+2024-03-11 00:51:00 -> Disk space for logs below 20 percent
+2024-03-11 00:52:15 -> Slow query detected taking 5 seconds
+2024-03-11 00:52:45 -> API response delayed
+2024-03-11 00:54:30 -> Disk space for logs below 20 percent
+2024-03-11 00:57:00 -> Slow query detected taking 5 seconds
+2024-03-11 00:59:00 -> Memory usage above threshold
+2024-03-11 00:59:15 -> Slow query detected taking 5 seconds
+2024-03-11 00:59:30 -> Disk space for logs below 20 percent
+2024-03-11 01:01:45 -> API response delayed
+2024-03-11 01:02:00 -> Connection pool near limit 90 percent
+2024-03-11 01:02:30 -> API response delayed
+2024-03-11 01:06:15 -> Slow query detected taking 5 seconds
+2024-03-11 01:06:45 -> Disk space for logs below 20 percent
+2024-03-11 01:08:15 -> Slow query detected taking 5 seconds
+2024-03-11 01:13:15 -> API response delayed
+2024-03-11 01:14:15 -> Memory usage above threshold
+2024-03-11 01:15:00 -> API response delayed
+2024-03-11 01:15:45 -> API response delayed
+2024-03-11 01:16:45 -> Connection pool near limit 90 percent
+2024-03-11 01:17:00 -> Connection pool near limit 90 percent
+2024-03-11 01:17:45 -> Memory usage above threshold
+2024-03-11 01:19:45 -> API response delayed
+2024-03-11 01:20:15 -> Disk space for logs below 20 percent
+2024-03-11 01:21:15 -> Slow query detected taking 5 seconds
+2024-03-11 01:21:30 -> Connection pool near limit 90 percent
+2024-03-11 01:22:30 -> Slow query detected taking 5 seconds
+2024-03-11 01:23:15 -> Connection pool near limit 90 percent
+2024-03-11 01:29:45 -> API response delayed
+2024-03-11 01:30:30 -> Memory usage above threshold
+2024-03-11 01:30:45 -> Memory usage above threshold
+2024-03-11 01:34:30 -> Disk space for logs below 20 percent
+2024-03-11 01:36:45 -> Disk space for logs below 20 percent
+2024-03-11 01:39:45 -> Disk space for logs below 20 percent
+2024-03-11 01:40:15 -> Connection pool near limit 90 percent
+2024-03-11 01:41:30 -> API response delayed
+2024-03-11 01:42:15 -> Disk space for logs below 20 percent
+2024-03-11 01:46:30 -> Memory usage above threshold
+2024-03-11 01:48:30 -> Memory usage above threshold
+2024-03-11 01:48:45 -> Slow query detected taking 5 seconds
+2024-03-11 01:53:15 -> API response delayed
+2024-03-11 01:57:15 -> Connection pool near limit 90 percent
+2024-03-11 02:00:45 -> Disk space for logs below 20 percent
+2024-03-11 02:02:00 -> Slow query detected taking 5 seconds
+2024-03-11 02:03:15 -> Disk space for logs below 20 percent
+2024-03-11 02:05:00 -> Slow query detected taking 5 seconds
+2024-03-11 02:08:30 -> Memory usage above threshold
+2024-03-11 02:09:30 -> Disk space for logs below 20 percent
+2024-03-11 02:10:30 -> Memory usage above threshold
+2024-03-11 02:12:00 -> Memory usage above threshold
+2024-03-11 02:14:30 -> Connection pool near limit 90 percent
+2024-03-11 02:14:45 -> Disk space for logs below 20 percent
+2024-03-11 02:15:30 -> API response delayed
+2024-03-11 02:17:15 -> Slow query detected taking 5 seconds
+2024-03-11 02:20:00 -> API response delayed
+2024-03-11 02:21:00 -> Slow query detected taking 5 seconds
+2024-03-11 02:24:15 -> Slow query detected taking 5 seconds
+2024-03-11 02:31:15 -> API response delayed
+2024-03-11 02:33:30 -> Connection pool near limit 90 percent
+2024-03-11 02:33:45 -> Connection pool near limit 90 percent
+2024-03-11 02:34:15 -> Disk space for logs below 20 percent
+2024-03-11 02:36:15 -> Slow query detected taking 5 seconds
+2024-03-11 02:37:00 -> Memory usage above threshold
+2024-03-11 02:39:30 -> Connection pool near limit 90 percent
+2024-03-11 02:42:15 -> Connection pool near limit 90 percent
+2024-03-11 02:43:00 -> Memory usage above threshold
+2024-03-11 02:44:45 -> Disk space for logs below 20 percent
+2024-03-11 02:45:30 -> Disk space for logs below 20 percent
+2024-03-11 02:49:00 -> Memory usage above threshold
+2024-03-11 02:49:15 -> Connection pool near limit 90 percent
+2024-03-11 02:50:00 -> Slow query detected taking 5 seconds
+2024-03-11 02:53:00 -> Memory usage above threshold
+2024-03-11 02:53:30 -> Memory usage above threshold
+2024-03-11 02:54:30 -> Memory usage above threshold
+2024-03-11 02:56:00 -> Memory usage above threshold
+2024-03-11 02:58:00 -> Disk space for logs below 20 percent
+2024-03-11 03:01:15 -> Connection pool near limit 90 percent
+2024-03-11 03:02:45 -> Disk space for logs below 20 percent
+2024-03-11 03:07:45 -> Memory usage above threshold
+2024-03-11 03:08:30 -> Connection pool near limit 90 percent
+2024-03-11 03:09:30 -> Memory usage above threshold
+2024-03-11 03:09:45 -> Disk space for logs below 20 percent
+2024-03-11 03:12:15 -> Connection pool near limit 90 percent
+2024-03-11 03:13:30 -> Disk space for logs below 20 percent
+2024-03-11 03:14:30 -> Memory usage above threshold
+2024-03-11 03:16:00 -> Disk space for logs below 20 percent
+2024-03-11 03:17:30 -> API response delayed
+2024-03-11 03:22:00 -> Slow query detected taking 5 seconds
+2024-03-11 03:26:30 -> Connection pool near limit 90 percent
+2024-03-11 03:28:45 -> API response delayed
+2024-03-11 03:32:00 -> Connection pool near limit 90 percent
+2024-03-11 03:33:45 -> API response delayed
+2024-03-11 03:36:00 -> Connection pool near limit 90 percent
+2024-03-11 03:36:30 -> Memory usage above threshold
+2024-03-11 03:37:45 -> API response delayed
+2024-03-11 03:38:45 -> Memory usage above threshold
+2024-03-11 03:39:00 -> Connection pool near limit 90 percent
+2024-03-11 03:39:15 -> Connection pool near limit 90 percent
+2024-03-11 03:40:15 -> Connection pool near limit 90 percent
+2024-03-11 03:40:30 -> Disk space for logs below 20 percent
+2024-03-11 03:42:30 -> Connection pool near limit 90 percent
+2024-03-11 03:44:15 -> API response delayed
+2024-03-11 03:49:00 -> Slow query detected taking 5 seconds
+2024-03-11 03:49:30 -> Connection pool near limit 90 percent
+2024-03-11 03:51:15 -> Memory usage above threshold
+2024-03-11 03:52:00 -> Connection pool near limit 90 percent
+2024-03-11 03:54:30 -> Connection pool near limit 90 percent
+2024-03-11 03:56:30 -> API response delayed
+2024-03-11 03:56:45 -> Memory usage above threshold
+2024-03-11 03:59:00 -> Slow query detected taking 5 seconds
+2024-03-11 04:00:45 -> Connection pool near limit 90 percent
+2024-03-11 04:03:00 -> API response delayed
+2024-03-11 04:06:30 -> API response delayed
+2024-03-11 04:09:00 -> Memory usage above threshold
+2024-03-11 04:11:00 -> API response delayed
+2024-03-11 04:13:45 -> Slow query detected taking 5 seconds
+2024-03-11 04:14:00 -> API response delayed
+2024-03-11 04:14:15 -> API response delayed
+2024-03-11 04:17:15 -> Connection pool near limit 90 percent
+2024-03-11 04:17:45 -> API response delayed
+2024-03-11 04:20:15 -> Memory usage above threshold
+2024-03-11 04:26:45 -> Slow query detected taking 5 seconds
+2024-03-11 04:28:15 -> Memory usage above threshold
+2024-03-11 04:31:00 -> Disk space for logs below 20 percent
+2024-03-11 04:32:00 -> Slow query detected taking 5 seconds
+2024-03-11 04:36:00 -> API response delayed
+2024-03-11 04:37:15 -> API response delayed
+2024-03-11 04:40:15 -> API response delayed
+2024-03-11 04:42:30 -> Disk space for logs below 20 percent
+2024-03-11 04:42:45 -> API response delayed
+2024-03-11 04:44:30 -> API response delayed
+2024-03-11 04:44:45 -> Slow query detected taking 5 seconds
+2024-03-11 04:47:00 -> Memory usage above threshold
+2024-03-11 04:50:00 -> API response delayed
+2024-03-11 04:50:15 -> Slow query detected taking 5 seconds
+2024-03-11 04:51:00 -> Disk space for logs below 20 percent
+2024-03-11 04:52:30 -> Slow query detected taking 5 seconds
+2024-03-11 04:53:45 -> Memory usage above threshold
+2024-03-11 04:55:30 -> Connection pool near limit 90 percent
+2024-03-11 04:56:00 -> Disk space for logs below 20 percent
+2024-03-11 04:56:30 -> Connection pool near limit 90 percent
+2024-03-11 04:56:45 -> Memory usage above threshold
+2024-03-11 04:57:15 -> Memory usage above threshold
+2024-03-11 04:58:00 -> Memory usage above threshold
+2024-03-11 04:59:30 -> API response delayed
+2024-03-11 05:02:30 -> API response delayed
+2024-03-11 05:05:15 -> Connection pool near limit 90 percent
+2024-03-11 05:05:30 -> Slow query detected taking 5 seconds
+2024-03-11 05:08:00 -> Connection pool near limit 90 percent
+2024-03-11 05:11:15 -> API response delayed
+2024-03-11 05:12:00 -> Slow query detected taking 5 seconds
+2024-03-11 05:12:15 -> API response delayed
+2024-03-11 05:13:45 -> Connection pool near limit 90 percent
+2024-03-11 05:17:15 -> Disk space for logs below 20 percent
+2024-03-11 05:19:00 -> API response delayed
+2024-03-11 05:20:00 -> Disk space for logs below 20 percent
+2024-03-11 05:20:45 -> API response delayed
+2024-03-11 05:22:00 -> Slow query detected taking 5 seconds
+2024-03-11 05:22:45 -> Slow query detected taking 5 seconds
+2024-03-11 05:23:00 -> Memory usage above threshold
+2024-03-11 05:24:45 -> Disk space for logs below 20 percent
+2024-03-11 05:28:00 -> Disk space for logs below 20 percent
+2024-03-11 05:29:15 -> Slow query detected taking 5 seconds
+2024-03-11 05:32:00 -> Memory usage above threshold
+2024-03-11 05:32:15 -> API response delayed
+2024-03-11 05:33:30 -> Memory usage above threshold
+2024-03-11 05:35:15 -> Memory usage above threshold
+2024-03-11 05:36:30 -> Slow query detected taking 5 seconds
+2024-03-11 05:41:15 -> API response delayed
+2024-03-11 05:43:15 -> Memory usage above threshold
+2024-03-11 05:45:45 -> Disk space for logs below 20 percent
+2024-03-11 05:46:15 -> Connection pool near limit 90 percent
+2024-03-11 05:46:45 -> API response delayed
+2024-03-11 05:48:15 -> Slow query detected taking 5 seconds
+2024-03-11 05:48:30 -> Connection pool near limit 90 percent
+2024-03-11 05:50:00 -> Memory usage above threshold
+2024-03-11 05:52:15 -> API response delayed
+2024-03-11 05:53:00 -> API response delayed
+2024-03-11 05:53:45 -> Slow query detected taking 5 seconds
+2024-03-11 05:54:15 -> Disk space for logs below 20 percent
+2024-03-11 05:54:30 -> Disk space for logs below 20 percent
+2024-03-11 05:57:15 -> Connection pool near limit 90 percent
+2024-03-11 05:58:00 -> Disk space for logs below 20 percent
+2024-03-11 05:58:30 -> API response delayed
+2024-03-11 06:00:45 -> Memory usage above threshold
+2024-03-11 06:04:45 -> Memory usage above threshold
+2024-03-11 06:08:30 -> Memory usage above threshold
+2024-03-11 06:11:30 -> Memory usage above threshold
+2024-03-11 06:12:15 -> Memory usage above threshold
+2024-03-11 06:13:15 -> Memory usage above threshold
+2024-03-11 06:15:45 -> Disk space for logs below 20 percent
+2024-03-11 06:21:00 -> API response delayed
+2024-03-11 06:23:30 -> Disk space for logs below 20 percent
+2024-03-11 06:24:15 -> Slow query detected taking 5 seconds
+2024-03-11 06:24:30 -> Disk space for logs below 20 percent
+2024-03-11 06:27:15 -> Memory usage above threshold
+2024-03-11 06:27:45 -> Connection pool near limit 90 percent
+2024-03-11 06:29:00 -> Disk space for logs below 20 percent
+2024-03-11 06:29:45 -> API response delayed
+2024-03-11 06:33:45 -> API response delayed
+2024-03-11 06:36:45 -> API response delayed
+2024-03-11 06:39:00 -> Disk space for logs below 20 percent
+2024-03-11 06:40:00 -> Connection pool near limit 90 percent
+2024-03-11 06:42:45 -> Memory usage above threshold
+2024-03-11 06:46:45 -> API response delayed
+2024-03-11 06:47:00 -> Disk space for logs below 20 percent
+2024-03-11 06:49:00 -> Disk space for logs below 20 percent
+2024-03-11 06:49:45 -> API response delayed
+2024-03-11 06:55:00 -> Disk space for logs below 20 percent
+2024-03-11 06:55:30 -> Slow query detected taking 5 seconds
+2024-03-11 06:55:45 -> API response delayed
+2024-03-11 06:57:15 -> Memory usage above threshold
+2024-03-11 07:02:15 -> Connection pool near limit 90 percent
+2024-03-11 07:03:15 -> Connection pool near limit 90 percent
+2024-03-11 07:06:00 -> Slow query detected taking 5 seconds
+2024-03-11 07:08:00 -> Memory usage above threshold
+2024-03-11 07:08:15 -> API response delayed
+2024-03-11 07:08:45 -> Slow query detected taking 5 seconds
+2024-03-11 07:13:30 -> Disk space for logs below 20 percent
+2024-03-11 07:13:45 -> Slow query detected taking 5 seconds
+2024-03-11 07:14:15 -> Connection pool near limit 90 percent
+2024-03-11 07:17:15 -> API response delayed
+2024-03-11 07:17:30 -> Connection pool near limit 90 percent
+2024-03-11 07:18:30 -> Disk space for logs below 20 percent
+2024-03-11 07:19:00 -> Memory usage above threshold
+2024-03-11 07:20:00 -> Memory usage above threshold
+2024-03-11 07:24:15 -> Connection pool near limit 90 percent
+2024-03-11 07:28:00 -> Connection pool near limit 90 percent
+2024-03-11 07:28:45 -> Memory usage above threshold
+2024-03-11 07:29:15 -> Memory usage above threshold
+2024-03-11 07:30:15 -> Disk space for logs below 20 percent
+2024-03-11 07:31:15 -> Slow query detected taking 5 seconds
+2024-03-11 07:32:00 -> Memory usage above threshold
+2024-03-11 07:33:45 -> Connection pool near limit 90 percent
+2024-03-11 07:34:30 -> API response delayed
+2024-03-11 07:34:45 -> Memory usage above threshold
+2024-03-11 07:37:45 -> Slow query detected taking 5 seconds
+2024-03-11 07:38:15 -> Disk space for logs below 20 percent
+2024-03-11 07:39:00 -> API response delayed
+2024-03-11 07:42:00 -> API response delayed
+2024-03-11 07:42:45 -> Connection pool near limit 90 percent
+2024-03-11 07:44:30 -> Disk space for logs below 20 percent
+2024-03-11 07:47:30 -> Disk space for logs below 20 percent
+2024-03-11 07:49:00 -> Disk space for logs below 20 percent
+2024-03-11 07:49:15 -> Disk space for logs below 20 percent
+2024-03-11 07:49:30 -> Memory usage above threshold
+2024-03-11 07:51:00 -> Slow query detected taking 5 seconds
+2024-03-11 07:53:15 -> Disk space for logs below 20 percent
+2024-03-11 07:53:45 -> API response delayed
+2024-03-11 07:54:45 -> Disk space for logs below 20 percent
+2024-03-11 07:55:00 -> Disk space for logs below 20 percent
+2024-03-11 08:00:15 -> Slow query detected taking 5 seconds
+2024-03-11 08:01:00 -> Connection pool near limit 90 percent
+2024-03-11 08:01:30 -> Disk space for logs below 20 percent
+2024-03-11 08:02:45 -> Connection pool near limit 90 percent
+2024-03-11 08:04:45 -> Connection pool near limit 90 percent
+2024-03-11 08:07:00 -> Disk space for logs below 20 percent
+2024-03-11 08:07:45 -> Memory usage above threshold
+2024-03-11 08:08:30 -> Memory usage above threshold
+2024-03-11 08:12:45 -> Disk space for logs below 20 percent
+2024-03-11 08:13:00 -> Connection pool near limit 90 percent
+2024-03-11 08:14:45 -> Connection pool near limit 90 percent
+2024-03-11 08:15:00 -> Slow query detected taking 5 seconds
+2024-03-11 08:15:30 -> Slow query detected taking 5 seconds
+2024-03-11 08:21:45 -> Slow query detected taking 5 seconds
+2024-03-11 08:22:00 -> Slow query detected taking 5 seconds
+2024-03-11 08:23:00 -> Connection pool near limit 90 percent
+2024-03-11 08:23:15 -> Memory usage above threshold
+2024-03-11 08:24:30 -> API response delayed
+2024-03-11 08:24:45 -> Slow query detected taking 5 seconds
+2024-03-11 08:26:00 -> Disk space for logs below 20 percent
+2024-03-11 08:27:15 -> API response delayed
+2024-03-11 08:30:00 -> Slow query detected taking 5 seconds
+2024-03-11 08:31:45 -> Connection pool near limit 90 percent
+2024-03-11 08:34:15 -> Slow query detected taking 5 seconds
+2024-03-11 08:34:45 -> Slow query detected taking 5 seconds
+2024-03-11 08:36:30 -> API response delayed
+2024-03-11 08:36:45 -> API response delayed
+2024-03-11 08:37:15 -> Memory usage above threshold
+2024-03-11 08:38:30 -> API response delayed
+2024-03-11 08:39:00 -> Memory usage above threshold
+2024-03-11 08:40:15 -> Slow query detected taking 5 seconds
+2024-03-11 08:41:30 -> Disk space for logs below 20 percent
+2024-03-11 08:49:45 -> API response delayed
+2024-03-11 08:52:15 -> Memory usage above threshold
+2024-03-11 08:54:30 -> Memory usage above threshold
+2024-03-11 08:56:00 -> Connection pool near limit 90 percent
+2024-03-11 08:57:00 -> API response delayed
+2024-03-11 08:57:30 -> Slow query detected taking 5 seconds
+2024-03-11 09:02:30 -> Memory usage above threshold
+2024-03-11 09:03:15 -> Disk space for logs below 20 percent
+2024-03-11 09:03:30 -> Slow query detected taking 5 seconds
+2024-03-11 09:04:00 -> Memory usage above threshold
+2024-03-11 09:07:30 -> Disk space for logs below 20 percent
+2024-03-11 09:07:45 -> Connection pool near limit 90 percent
+2024-03-11 09:08:30 -> API response delayed
+2024-03-11 09:09:00 -> Disk space for logs below 20 percent
+2024-03-11 09:11:45 -> Disk space for logs below 20 percent
+2024-03-11 09:13:45 -> Disk space for logs below 20 percent
+2024-03-11 09:14:30 -> Memory usage above threshold
+2024-03-11 09:17:45 -> API response delayed
+2024-03-11 09:18:15 -> Slow query detected taking 5 seconds
+2024-03-11 09:23:30 -> Slow query detected taking 5 seconds
+2024-03-11 09:23:45 -> API response delayed
+2024-03-11 09:24:30 -> Disk space for logs below 20 percent
+2024-03-11 09:25:30 -> Memory usage above threshold
+2024-03-11 09:26:00 -> Slow query detected taking 5 seconds
+2024-03-11 09:26:45 -> API response delayed
+2024-03-11 09:27:45 -> Connection pool near limit 90 percent
+2024-03-11 09:28:30 -> Memory usage above threshold
+2024-03-11 09:29:00 -> Memory usage above threshold
+2024-03-11 09:32:00 -> Slow query detected taking 5 seconds
+2024-03-11 09:34:30 -> Connection pool near limit 90 percent
+2024-03-11 09:34:45 -> Memory usage above threshold
+2024-03-11 09:36:30 -> Slow query detected taking 5 seconds
+2024-03-11 09:37:15 -> Memory usage above threshold
+2024-03-11 09:38:00 -> Connection pool near limit 90 percent
+2024-03-11 09:39:15 -> Memory usage above threshold
+2024-03-11 09:41:15 -> Slow query detected taking 5 seconds
+2024-03-11 09:46:15 -> Connection pool near limit 90 percent
+2024-03-11 09:50:00 -> Memory usage above threshold
+2024-03-11 09:51:15 -> API response delayed
+2024-03-11 09:53:45 -> Slow query detected taking 5 seconds
+2024-03-11 09:54:45 -> Connection pool near limit 90 percent
+2024-03-11 09:55:00 -> API response delayed
+2024-03-11 09:58:30 -> API response delayed
+2024-03-11 10:01:30 -> Memory usage above threshold
+2024-03-11 10:01:45 -> API response delayed
+2024-03-11 10:04:30 -> API response delayed
+2024-03-11 10:06:30 -> Memory usage above threshold
+2024-03-11 10:09:30 -> Disk space for logs below 20 percent
+2024-03-11 10:09:45 -> Disk space for logs below 20 percent
+2024-03-11 10:10:00 -> Disk space for logs below 20 percent
+2024-03-11 10:11:15 -> Memory usage above threshold
+2024-03-11 10:12:00 -> Memory usage above threshold
+2024-03-11 10:13:45 -> Memory usage above threshold
+2024-03-11 10:14:00 -> Disk space for logs below 20 percent
+2024-03-11 10:14:15 -> API response delayed
+2024-03-11 10:14:30 -> Memory usage above threshold
+2024-03-11 10:15:15 -> Disk space for logs below 20 percent
+2024-03-11 10:20:00 -> Disk space for logs below 20 percent
+2024-03-11 10:21:15 -> API response delayed
+2024-03-11 10:24:45 -> Connection pool near limit 90 percent
+2024-03-11 10:25:15 -> Disk space for logs below 20 percent
+2024-03-11 10:26:45 -> Connection pool near limit 90 percent
+2024-03-11 10:29:00 -> API response delayed
+2024-03-11 10:31:30 -> Slow query detected taking 5 seconds
+2024-03-11 10:32:00 -> Slow query detected taking 5 seconds
+2024-03-11 10:36:30 -> Connection pool near limit 90 percent
+2024-03-11 10:36:45 -> API response delayed
+2024-03-11 10:37:45 -> API response delayed
+2024-03-11 10:39:00 -> Disk space for logs below 20 percent
+2024-03-11 10:40:00 -> Slow query detected taking 5 seconds
+2024-03-11 10:40:45 -> Slow query detected taking 5 seconds
+2024-03-11 10:43:00 -> API response delayed
+2024-03-11 10:45:15 -> Disk space for logs below 20 percent
+2024-03-11 10:45:30 -> Connection pool near limit 90 percent
+2024-03-11 10:47:00 -> API response delayed
+2024-03-11 10:49:30 -> Connection pool near limit 90 percent
+2024-03-11 10:50:15 -> Disk space for logs below 20 percent
+2024-03-11 10:51:00 -> Slow query detected taking 5 seconds
+2024-03-11 10:51:15 -> API response delayed
+2024-03-11 10:55:30 -> Memory usage above threshold
+2024-03-11 10:57:30 -> Disk space for logs below 20 percent
+2024-03-11 10:58:45 -> API response delayed
+2024-03-11 11:00:00 -> API response delayed
+2024-03-11 11:01:00 -> Connection pool near limit 90 percent
+2024-03-11 11:01:45 -> API response delayed
+2024-03-11 11:02:00 -> Memory usage above threshold
+2024-03-11 11:02:15 -> Slow query detected taking 5 seconds
+2024-03-11 11:03:15 -> Connection pool near limit 90 percent
+2024-03-11 11:03:45 -> API response delayed
+2024-03-11 11:09:45 -> API response delayed
+2024-03-11 11:13:45 -> API response delayed
+2024-03-11 11:14:30 -> Disk space for logs below 20 percent
+2024-03-11 11:15:30 -> Memory usage above threshold
+2024-03-11 11:17:15 -> Slow query detected taking 5 seconds
+2024-03-11 11:18:15 -> Connection pool near limit 90 percent
+2024-03-11 11:18:45 -> Memory usage above threshold
+2024-03-11 11:19:15 -> Disk space for logs below 20 percent
+2024-03-11 11:20:45 -> Connection pool near limit 90 percent
+2024-03-11 11:22:15 -> Disk space for logs below 20 percent
+2024-03-11 11:22:45 -> API response delayed
+2024-03-11 11:27:15 -> Connection pool near limit 90 percent
+2024-03-11 11:30:15 -> Memory usage above threshold
+2024-03-11 11:30:45 -> Disk space for logs below 20 percent
+2024-03-11 11:33:00 -> Slow query detected taking 5 seconds
+2024-03-11 11:35:00 -> Memory usage above threshold
+2024-03-11 11:37:45 -> Connection pool near limit 90 percent
+2024-03-11 11:38:00 -> Disk space for logs below 20 percent
+2024-03-11 11:41:00 -> API response delayed
+2024-03-11 11:43:45 -> Slow query detected taking 5 seconds
+2024-03-11 11:44:15 -> Slow query detected taking 5 seconds
+2024-03-11 11:48:30 -> Disk space for logs below 20 percent
+2024-03-11 11:49:00 -> Memory usage above threshold
+2024-03-11 11:50:15 -> Slow query detected taking 5 seconds
+2024-03-11 11:51:00 -> Memory usage above threshold
+2024-03-11 11:51:45 -> Slow query detected taking 5 seconds
+2024-03-11 11:52:00 -> Memory usage above threshold
+2024-03-11 11:55:45 -> Slow query detected taking 5 seconds
+2024-03-11 11:57:45 -> Memory usage above threshold
+2024-03-11 11:58:30 -> Connection pool near limit 90 percent
+2024-03-11 11:59:00 -> Slow query detected taking 5 seconds
+2024-03-11 12:00:00 -> Disk space for logs below 20 percent
+2024-03-11 12:00:30 -> Slow query detected taking 5 seconds
+2024-03-11 12:01:45 -> API response delayed
+2024-03-11 12:07:15 -> Memory usage above threshold
+2024-03-11 12:08:30 -> Slow query detected taking 5 seconds
+2024-03-11 12:09:15 -> Memory usage above threshold
+2024-03-11 12:09:45 -> Disk space for logs below 20 percent
+2024-03-11 12:12:45 -> Disk space for logs below 20 percent
+2024-03-11 12:13:00 -> API response delayed
+2024-03-11 12:16:00 -> API response delayed
+2024-03-11 12:18:30 -> Disk space for logs below 20 percent
+2024-03-11 12:23:00 -> API response delayed
+2024-03-11 12:24:15 -> Memory usage above threshold
+2024-03-11 12:24:45 -> API response delayed
+2024-03-11 12:31:45 -> API response delayed
+2024-03-11 12:34:45 -> Memory usage above threshold
+2024-03-11 12:40:00 -> API response delayed
+2024-03-11 12:40:45 -> API response delayed
+2024-03-11 12:45:00 -> Disk space for logs below 20 percent
+2024-03-11 12:51:15 -> Slow query detected taking 5 seconds
+2024-03-11 12:54:00 -> API response delayed
+2024-03-11 12:56:00 -> Memory usage above threshold
+2024-03-11 12:59:15 -> Memory usage above threshold
+2024-03-11 13:00:45 -> Memory usage above threshold
+2024-03-11 13:01:15 -> Connection pool near limit 90 percent
+2024-03-11 13:01:45 -> Disk space for logs below 20 percent
+2024-03-11 13:03:45 -> Memory usage above threshold
+2024-03-11 13:05:45 -> Disk space for logs below 20 percent
+2024-03-11 13:06:30 -> Memory usage above threshold
+2024-03-11 13:07:45 -> Connection pool near limit 90 percent
+2024-03-11 13:08:00 -> Disk space for logs below 20 percent
+2024-03-11 13:10:30 -> Slow query detected taking 5 seconds
+2024-03-11 13:10:45 -> Slow query detected taking 5 seconds
+2024-03-11 13:13:45 -> API response delayed
+2024-03-11 13:14:15 -> Connection pool near limit 90 percent
+2024-03-11 13:14:30 -> API response delayed
+2024-03-11 13:16:45 -> Memory usage above threshold
+2024-03-11 13:19:00 -> Slow query detected taking 5 seconds
+2024-03-11 13:21:30 -> Disk space for logs below 20 percent
+2024-03-11 13:25:00 -> Disk space for logs below 20 percent
+2024-03-11 13:26:15 -> Slow query detected taking 5 seconds
+2024-03-11 13:29:00 -> Connection pool near limit 90 percent
+2024-03-11 13:29:45 -> API response delayed
+2024-03-11 13:32:45 -> Disk space for logs below 20 percent
+2024-03-11 13:37:30 -> API response delayed
+2024-03-11 13:39:00 -> API response delayed
+2024-03-11 13:40:15 -> Slow query detected taking 5 seconds
+2024-03-11 13:42:00 -> Connection pool near limit 90 percent
+2024-03-11 13:42:15 -> API response delayed
+2024-03-11 13:44:00 -> API response delayed
+2024-03-11 13:47:00 -> Connection pool near limit 90 percent
+2024-03-11 13:48:45 -> API response delayed
+2024-03-11 13:50:00 -> Slow query detected taking 5 seconds
+2024-03-11 13:50:30 -> Disk space for logs below 20 percent
+2024-03-11 13:50:45 -> Slow query detected taking 5 seconds
+2024-03-11 13:52:30 -> API response delayed
+2024-03-11 13:52:45 -> Disk space for logs below 20 percent
+2024-03-11 13:54:00 -> Slow query detected taking 5 seconds
+2024-03-11 13:54:15 -> API response delayed
+2024-03-11 13:55:30 -> Disk space for logs below 20 percent
+2024-03-11 13:56:15 -> API response delayed
+2024-03-11 13:56:45 -> Disk space for logs below 20 percent
+2024-03-11 13:57:45 -> Memory usage above threshold
+2024-03-11 13:58:30 -> Slow query detected taking 5 seconds
+2024-03-11 13:59:45 -> Connection pool near limit 90 percent
+2024-03-11 14:00:00 -> Memory usage above threshold
+2024-03-11 14:02:00 -> Memory usage above threshold
+2024-03-11 14:02:15 -> API response delayed
+2024-03-11 14:08:45 -> API response delayed
+2024-03-11 14:09:30 -> Disk space for logs below 20 percent
+2024-03-11 14:09:45 -> Slow query detected taking 5 seconds
+2024-03-11 14:11:30 -> Disk space for logs below 20 percent
+2024-03-11 14:12:45 -> Memory usage above threshold
+2024-03-11 14:13:00 -> Connection pool near limit 90 percent
+2024-03-11 14:14:15 -> Slow query detected taking 5 seconds
+2024-03-11 14:18:15 -> Disk space for logs below 20 percent
+2024-03-11 14:20:00 -> Slow query detected taking 5 seconds
+2024-03-11 14:24:15 -> Connection pool near limit 90 percent
+2024-03-11 14:28:15 -> Connection pool near limit 90 percent
+2024-03-11 14:28:30 -> Slow query detected taking 5 seconds
+2024-03-11 14:29:00 -> Slow query detected taking 5 seconds
+2024-03-11 14:32:45 -> Disk space for logs below 20 percent
+2024-03-11 14:33:00 -> API response delayed
+2024-03-11 14:34:45 -> API response delayed
+2024-03-11 14:36:15 -> Disk space for logs below 20 percent
+2024-03-11 14:38:30 -> API response delayed
+2024-03-11 14:40:45 -> API response delayed
+2024-03-11 14:41:00 -> Disk space for logs below 20 percent
+2024-03-11 14:42:00 -> Slow query detected taking 5 seconds
+2024-03-11 14:42:15 -> Memory usage above threshold
+2024-03-11 14:42:30 -> Connection pool near limit 90 percent
+2024-03-11 14:44:15 -> Connection pool near limit 90 percent
+2024-03-11 14:45:30 -> Slow query detected taking 5 seconds
+2024-03-11 14:50:30 -> Memory usage above threshold
+2024-03-11 14:54:15 -> Memory usage above threshold
+2024-03-11 14:56:00 -> Memory usage above threshold
+2024-03-11 14:58:30 -> Slow query detected taking 5 seconds
+2024-03-11 14:59:00 -> API response delayed
+2024-03-11 15:02:30 -> Disk space for logs below 20 percent
+2024-03-11 15:03:15 -> Memory usage above threshold
+2024-03-11 15:06:15 -> Connection pool near limit 90 percent
+2024-03-11 15:06:45 -> Disk space for logs below 20 percent
+2024-03-11 15:08:30 -> API response delayed
+2024-03-11 15:10:15 -> API response delayed
+2024-03-11 15:13:00 -> Slow query detected taking 5 seconds
+2024-03-11 15:15:30 -> API response delayed
+2024-03-11 15:16:45 -> API response delayed
+2024-03-11 15:20:00 -> Slow query detected taking 5 seconds
+2024-03-11 15:20:15 -> Connection pool near limit 90 percent
+2024-03-11 15:22:00 -> Connection pool near limit 90 percent
+2024-03-11 15:26:15 -> API response delayed
+2024-03-11 15:27:45 -> Disk space for logs below 20 percent
+2024-03-11 15:28:15 -> Connection pool near limit 90 percent
+2024-03-11 15:30:00 -> API response delayed
+2024-03-11 15:31:15 -> Slow query detected taking 5 seconds
+2024-03-11 15:31:30 -> API response delayed
+2024-03-11 15:31:45 -> Slow query detected taking 5 seconds
+2024-03-11 15:33:45 -> Disk space for logs below 20 percent
+2024-03-11 15:34:00 -> API response delayed
+2024-03-11 15:34:30 -> Connection pool near limit 90 percent
+2024-03-11 15:36:00 -> Memory usage above threshold
+2024-03-11 15:36:15 -> Slow query detected taking 5 seconds
+2024-03-11 15:39:45 -> Disk space for logs below 20 percent
+2024-03-11 15:42:15 -> Memory usage above threshold
+2024-03-11 15:43:45 -> Connection pool near limit 90 percent
+2024-03-11 15:47:45 -> Connection pool near limit 90 percent
+2024-03-11 15:48:45 -> Memory usage above threshold
+2024-03-11 15:49:15 -> API response delayed
+2024-03-11 15:50:00 -> Disk space for logs below 20 percent
+2024-03-11 15:50:45 -> Slow query detected taking 5 seconds
+2024-03-11 15:52:15 -> Disk space for logs below 20 percent
+2024-03-11 15:53:30 -> Slow query detected taking 5 seconds
+2024-03-11 15:54:00 -> Disk space for logs below 20 percent
+2024-03-11 15:55:15 -> Disk space for logs below 20 percent
+2024-03-11 15:56:00 -> Slow query detected taking 5 seconds
+2024-03-11 15:59:00 -> Slow query detected taking 5 seconds
+2024-03-11 16:01:45 -> API response delayed
+2024-03-11 16:04:45 -> Connection pool near limit 90 percent
+2024-03-11 16:06:30 -> Memory usage above threshold
+2024-03-11 16:07:45 -> Connection pool near limit 90 percent
+2024-03-11 16:08:30 -> Memory usage above threshold
+2024-03-11 16:09:00 -> Slow query detected taking 5 seconds
+2024-03-11 16:11:30 -> Slow query detected taking 5 seconds
+2024-03-11 16:16:00 -> Disk space for logs below 20 percent
+2024-03-11 16:17:00 -> Connection pool near limit 90 percent
+2024-03-11 16:19:00 -> Memory usage above threshold
+2024-03-11 16:21:30 -> Slow query detected taking 5 seconds
+2024-03-11 16:21:45 -> Connection pool near limit 90 percent
+2024-03-11 16:23:00 -> API response delayed
+2024-03-11 16:23:45 -> Memory usage above threshold
+2024-03-11 16:26:00 -> Memory usage above threshold
+2024-03-11 16:26:30 -> Slow query detected taking 5 seconds
+2024-03-11 16:27:30 -> Connection pool near limit 90 percent
+2024-03-11 16:27:45 -> Disk space for logs below 20 percent
+2024-03-11 16:28:30 -> Memory usage above threshold
+2024-03-11 16:30:15 -> Disk space for logs below 20 percent
+2024-03-11 16:31:45 -> API response delayed
+2024-03-11 16:32:00 -> Slow query detected taking 5 seconds
+2024-03-11 16:36:30 -> Slow query detected taking 5 seconds
+2024-03-11 16:41:30 -> Connection pool near limit 90 percent
+2024-03-11 16:42:00 -> Disk space for logs below 20 percent
+2024-03-11 16:42:30 -> Disk space for logs below 20 percent
+2024-03-11 16:45:00 -> Slow query detected taking 5 seconds
+2024-03-11 16:48:00 -> Disk space for logs below 20 percent
+2024-03-11 16:48:45 -> Memory usage above threshold
+2024-03-11 16:51:00 -> Memory usage above threshold
+2024-03-11 16:53:30 -> Disk space for logs below 20 percent
+2024-03-11 16:56:30 -> API response delayed
+2024-03-11 16:57:15 -> Connection pool near limit 90 percent
+2024-03-11 16:57:45 -> Memory usage above threshold
+2024-03-11 16:59:15 -> Memory usage above threshold
+2024-03-11 16:59:30 -> Memory usage above threshold
+2024-03-11 17:00:30 -> Slow query detected taking 5 seconds
+2024-03-11 17:01:45 -> Connection pool near limit 90 percent
+2024-03-11 17:02:15 -> Connection pool near limit 90 percent
+2024-03-11 17:08:15 -> Connection pool near limit 90 percent
+2024-03-11 17:08:45 -> Connection pool near limit 90 percent
+2024-03-11 17:09:00 -> API response delayed
+2024-03-11 17:09:45 -> Slow query detected taking 5 seconds
+2024-03-11 17:11:30 -> Slow query detected taking 5 seconds
+2024-03-11 17:12:00 -> API response delayed
+2024-03-11 17:12:15 -> Memory usage above threshold
+2024-03-11 17:14:45 -> API response delayed
+2024-03-11 17:15:00 -> Disk space for logs below 20 percent
+2024-03-11 17:17:15 -> Slow query detected taking 5 seconds
+2024-03-11 17:17:30 -> Memory usage above threshold
+2024-03-11 17:18:45 -> Memory usage above threshold
+2024-03-11 17:19:15 -> Connection pool near limit 90 percent
+2024-03-11 17:19:45 -> Slow query detected taking 5 seconds
+2024-03-11 17:26:15 -> Disk space for logs below 20 percent
+2024-03-11 17:28:00 -> Slow query detected taking 5 seconds
+2024-03-11 17:34:00 -> API response delayed
+2024-03-11 17:35:00 -> Connection pool near limit 90 percent
+2024-03-11 17:37:15 -> Disk space for logs below 20 percent
+2024-03-11 17:37:30 -> Connection pool near limit 90 percent
+2024-03-11 17:38:30 -> Connection pool near limit 90 percent
+2024-03-11 17:40:45 -> Connection pool near limit 90 percent
+2024-03-11 17:44:45 -> Slow query detected taking 5 seconds
+2024-03-11 17:47:15 -> API response delayed
+2024-03-11 17:51:30 -> API response delayed
+2024-03-11 17:51:45 -> Slow query detected taking 5 seconds
+2024-03-11 17:52:45 -> Slow query detected taking 5 seconds
+2024-03-11 17:55:30 -> Slow query detected taking 5 seconds
+2024-03-11 17:57:15 -> Disk space for logs below 20 percent
+2024-03-11 17:59:00 -> Memory usage above threshold
+2024-03-11 18:01:15 -> Connection pool near limit 90 percent
+2024-03-11 18:04:30 -> Memory usage above threshold
+2024-03-11 18:07:45 -> Disk space for logs below 20 percent
+2024-03-11 18:08:00 -> Connection pool near limit 90 percent
+2024-03-11 18:08:30 -> Connection pool near limit 90 percent
+2024-03-11 18:08:45 -> API response delayed
+2024-03-11 18:09:30 -> Slow query detected taking 5 seconds
+2024-03-11 18:10:00 -> Connection pool near limit 90 percent
+2024-03-11 18:10:30 -> Connection pool near limit 90 percent
+2024-03-11 18:11:15 -> Memory usage above threshold
+2024-03-11 18:11:45 -> Memory usage above threshold
+2024-03-11 18:12:30 -> Disk space for logs below 20 percent
+2024-03-11 18:16:15 -> Memory usage above threshold
+2024-03-11 18:18:15 -> Disk space for logs below 20 percent
+2024-03-11 18:18:30 -> Memory usage above threshold
+2024-03-11 18:20:30 -> Memory usage above threshold
+2024-03-11 18:21:45 -> Memory usage above threshold
+2024-03-11 18:22:00 -> Disk space for logs below 20 percent
+2024-03-11 18:23:00 -> API response delayed
+2024-03-11 18:24:15 -> Memory usage above threshold
+2024-03-11 18:26:00 -> Connection pool near limit 90 percent
+2024-03-11 18:26:45 -> Disk space for logs below 20 percent
+2024-03-11 18:28:45 -> Connection pool near limit 90 percent
+2024-03-11 18:32:15 -> API response delayed
+2024-03-11 18:33:15 -> Memory usage above threshold
+2024-03-11 18:34:15 -> API response delayed
+2024-03-11 18:34:30 -> Memory usage above threshold
+2024-03-11 18:35:00 -> Slow query detected taking 5 seconds
+2024-03-11 18:35:15 -> Disk space for logs below 20 percent
+2024-03-11 18:37:45 -> Slow query detected taking 5 seconds
+2024-03-11 18:40:00 -> Connection pool near limit 90 percent
+2024-03-11 18:40:30 -> Connection pool near limit 90 percent
+2024-03-11 18:41:15 -> Disk space for logs below 20 percent
+2024-03-11 18:42:15 -> Memory usage above threshold
+2024-03-11 18:44:00 -> Connection pool near limit 90 percent
+2024-03-11 18:44:45 -> Connection pool near limit 90 percent
+2024-03-11 18:46:30 -> Disk space for logs below 20 percent
+2024-03-11 18:46:45 -> Memory usage above threshold
+2024-03-11 18:47:30 -> Disk space for logs below 20 percent
+2024-03-11 18:51:15 -> Slow query detected taking 5 seconds
+2024-03-11 18:52:45 -> Slow query detected taking 5 seconds
+2024-03-11 18:54:00 -> Connection pool near limit 90 percent
+2024-03-11 18:55:30 -> Connection pool near limit 90 percent
+2024-03-11 18:58:30 -> API response delayed
+2024-03-11 18:59:45 -> API response delayed
+2024-03-11 19:00:00 -> Slow query detected taking 5 seconds
+2024-03-11 19:00:30 -> API response delayed
+2024-03-11 19:01:15 -> Disk space for logs below 20 percent
+2024-03-11 19:02:15 -> Memory usage above threshold
+2024-03-11 19:02:45 -> API response delayed
+2024-03-11 19:03:45 -> Slow query detected taking 5 seconds
+2024-03-11 19:05:15 -> Disk space for logs below 20 percent
+2024-03-11 19:06:45 -> Connection pool near limit 90 percent
+2024-03-11 19:07:30 -> Slow query detected taking 5 seconds
+2024-03-11 19:08:00 -> Memory usage above threshold
+2024-03-11 19:09:30 -> Disk space for logs below 20 percent
+2024-03-11 19:11:00 -> Memory usage above threshold
+2024-03-11 19:13:45 -> API response delayed
+2024-03-11 19:14:15 -> Slow query detected taking 5 seconds
+2024-03-11 19:14:45 -> Disk space for logs below 20 percent
+2024-03-11 19:16:45 -> Connection pool near limit 90 percent
+2024-03-11 19:17:00 -> Disk space for logs below 20 percent
+2024-03-11 19:17:45 -> Slow query detected taking 5 seconds
+2024-03-11 19:20:00 -> Connection pool near limit 90 percent
+2024-03-11 19:21:45 -> Connection pool near limit 90 percent
+2024-03-11 19:24:15 -> Memory usage above threshold
+2024-03-11 19:25:45 -> Slow query detected taking 5 seconds
+2024-03-11 19:26:00 -> Disk space for logs below 20 percent
+2024-03-11 19:26:30 -> Slow query detected taking 5 seconds
+2024-03-11 19:27:00 -> Slow query detected taking 5 seconds
+2024-03-11 19:29:30 -> API response delayed
+2024-03-11 19:30:15 -> API response delayed
+2024-03-11 19:34:30 -> Slow query detected taking 5 seconds
+2024-03-11 19:39:00 -> API response delayed
+2024-03-11 19:40:15 -> Memory usage above threshold
+2024-03-11 19:40:30 -> Memory usage above threshold
+2024-03-11 19:41:15 -> Disk space for logs below 20 percent
+2024-03-11 19:42:45 -> Memory usage above threshold
+2024-03-11 19:43:00 -> Memory usage above threshold
+2024-03-11 19:45:45 -> Disk space for logs below 20 percent
+2024-03-11 19:46:00 -> Disk space for logs below 20 percent
+2024-03-11 19:47:00 -> Memory usage above threshold
+2024-03-11 19:48:00 -> Memory usage above threshold
+2024-03-11 19:48:15 -> Memory usage above threshold
+2024-03-11 19:48:30 -> Memory usage above threshold
+2024-03-11 19:51:00 -> Disk space for logs below 20 percent
+2024-03-11 19:53:30 -> Memory usage above threshold
+2024-03-11 19:54:45 -> Connection pool near limit 90 percent
+2024-03-11 19:58:00 -> Connection pool near limit 90 percent
+2024-03-11 19:59:00 -> Slow query detected taking 5 seconds
+2024-03-11 20:01:15 -> Connection pool near limit 90 percent
+2024-03-11 20:04:45 -> API response delayed
+2024-03-11 20:07:15 -> Connection pool near limit 90 percent
+2024-03-11 20:10:45 -> API response delayed
+2024-03-11 20:11:45 -> Disk space for logs below 20 percent
+2024-03-11 20:12:15 -> API response delayed
+2024-03-11 20:13:30 -> Connection pool near limit 90 percent
+2024-03-11 20:13:45 -> Slow query detected taking 5 seconds
+2024-03-11 20:14:45 -> Memory usage above threshold
+2024-03-11 20:16:15 -> Slow query detected taking 5 seconds
+2024-03-11 20:17:30 -> Memory usage above threshold
+2024-03-11 20:21:45 -> Connection pool near limit 90 percent
+2024-03-11 20:23:15 -> API response delayed
+2024-03-11 20:24:00 -> Memory usage above threshold
+2024-03-11 20:26:30 -> Connection pool near limit 90 percent
+2024-03-11 20:26:45 -> Disk space for logs below 20 percent
+2024-03-11 20:29:15 -> Disk space for logs below 20 percent
+2024-03-11 20:30:00 -> Slow query detected taking 5 seconds
+2024-03-11 20:30:30 -> Disk space for logs below 20 percent
+2024-03-11 20:33:30 -> Slow query detected taking 5 seconds
+2024-03-11 20:35:15 -> Slow query detected taking 5 seconds
+2024-03-11 20:42:00 -> Slow query detected taking 5 seconds
+2024-03-11 20:42:45 -> API response delayed
+2024-03-11 20:43:00 -> Memory usage above threshold
+2024-03-11 20:43:45 -> Slow query detected taking 5 seconds
+2024-03-11 20:44:00 -> API response delayed
+2024-03-11 20:45:45 -> Slow query detected taking 5 seconds
+2024-03-11 20:46:45 -> API response delayed
+2024-03-11 20:47:45 -> Memory usage above threshold
+2024-03-11 20:48:45 -> Slow query detected taking 5 seconds
+2024-03-11 20:51:00 -> Disk space for logs below 20 percent
+2024-03-11 20:51:15 -> Disk space for logs below 20 percent
+2024-03-11 20:55:00 -> Connection pool near limit 90 percent
+2024-03-11 20:56:15 -> API response delayed
+2024-03-11 20:57:00 -> Memory usage above threshold
+2024-03-11 20:59:00 -> Memory usage above threshold
+2024-03-11 21:02:45 -> Slow query detected taking 5 seconds
+2024-03-11 21:03:45 -> Connection pool near limit 90 percent
+2024-03-11 21:04:00 -> Connection pool near limit 90 percent
+2024-03-11 21:05:15 -> Connection pool near limit 90 percent
+2024-03-11 21:08:00 -> Disk space for logs below 20 percent
+2024-03-11 21:08:15 -> Disk space for logs below 20 percent
+2024-03-11 21:08:30 -> Slow query detected taking 5 seconds
+2024-03-11 21:09:15 -> Memory usage above threshold
+2024-03-11 21:11:30 -> Memory usage above threshold
+2024-03-11 21:12:45 -> API response delayed
+2024-03-11 21:13:45 -> Connection pool near limit 90 percent
+2024-03-11 21:14:00 -> Disk space for logs below 20 percent
+2024-03-11 21:14:30 -> Disk space for logs below 20 percent
+2024-03-11 21:14:45 -> API response delayed
+2024-03-11 21:15:15 -> Connection pool near limit 90 percent
+2024-03-11 21:16:45 -> Connection pool near limit 90 percent
+2024-03-11 21:17:30 -> Memory usage above threshold
+2024-03-11 21:19:30 -> Memory usage above threshold
+2024-03-11 21:21:15 -> API response delayed
+2024-03-11 21:21:30 -> Memory usage above threshold
+2024-03-11 21:22:15 -> API response delayed
+2024-03-11 21:22:30 -> Connection pool near limit 90 percent
+2024-03-11 21:23:15 -> Disk space for logs below 20 percent
+2024-03-11 21:24:15 -> Memory usage above threshold
+2024-03-11 21:24:30 -> Disk space for logs below 20 percent
+2024-03-11 21:28:00 -> Memory usage above threshold
+2024-03-11 21:33:30 -> API response delayed
+2024-03-11 21:33:45 -> API response delayed
+2024-03-11 21:37:30 -> Slow query detected taking 5 seconds
+2024-03-11 21:38:15 -> API response delayed
+2024-03-11 21:38:30 -> Slow query detected taking 5 seconds
+2024-03-11 21:39:45 -> API response delayed
+2024-03-11 21:40:00 -> API response delayed
+2024-03-11 21:40:30 -> Connection pool near limit 90 percent
+2024-03-11 21:44:15 -> Connection pool near limit 90 percent
+2024-03-11 21:44:45 -> Connection pool near limit 90 percent
+2024-03-11 21:45:00 -> Connection pool near limit 90 percent
+2024-03-11 21:49:30 -> Connection pool near limit 90 percent
+2024-03-11 21:50:30 -> Memory usage above threshold
+2024-03-11 21:55:00 -> Disk space for logs below 20 percent
+2024-03-11 21:57:45 -> API response delayed
+2024-03-11 21:58:45 -> Memory usage above threshold
+2024-03-11 21:59:00 -> API response delayed
+2024-03-11 22:03:00 -> Disk space for logs below 20 percent
+2024-03-11 22:03:45 -> Memory usage above threshold
+2024-03-11 22:04:30 -> Connection pool near limit 90 percent
+2024-03-11 22:05:45 -> Disk space for logs below 20 percent
+2024-03-11 22:07:30 -> Slow query detected taking 5 seconds
+2024-03-11 22:15:30 -> Memory usage above threshold
+2024-03-11 22:18:15 -> API response delayed
+2024-03-11 22:20:45 -> Connection pool near limit 90 percent
+2024-03-11 22:21:30 -> Memory usage above threshold
+2024-03-11 22:22:00 -> API response delayed
+2024-03-11 22:23:15 -> Memory usage above threshold
+2024-03-11 22:28:45 -> API response delayed
+2024-03-11 22:31:15 -> Disk space for logs below 20 percent
+2024-03-11 22:37:30 -> Slow query detected taking 5 seconds
+2024-03-11 22:38:45 -> Connection pool near limit 90 percent
+2024-03-11 22:42:00 -> Disk space for logs below 20 percent
+2024-03-11 22:46:30 -> Connection pool near limit 90 percent
+2024-03-11 22:50:30 -> API response delayed
+2024-03-11 22:51:15 -> Disk space for logs below 20 percent
+2024-03-11 22:53:30 -> Disk space for logs below 20 percent
+2024-03-11 22:54:15 -> API response delayed
+2024-03-11 22:54:45 -> Connection pool near limit 90 percent
+2024-03-11 22:55:15 -> API response delayed
+2024-03-11 22:57:15 -> Memory usage above threshold
+2024-03-11 22:58:15 -> API response delayed
+2024-03-11 22:59:15 -> Memory usage above threshold
+2024-03-11 23:04:00 -> API response delayed
+2024-03-11 23:05:45 -> Connection pool near limit 90 percent
+2024-03-11 23:07:30 -> Connection pool near limit 90 percent
+2024-03-11 23:09:15 -> Disk space for logs below 20 percent
+2024-03-11 23:09:45 -> Connection pool near limit 90 percent
+2024-03-11 23:11:00 -> Connection pool near limit 90 percent
+2024-03-11 23:11:15 -> Memory usage above threshold
+2024-03-11 23:12:15 -> Memory usage above threshold
+2024-03-11 23:12:30 -> Connection pool near limit 90 percent
+2024-03-11 23:14:45 -> Memory usage above threshold
+2024-03-11 23:15:30 -> Connection pool near limit 90 percent
+2024-03-11 23:16:30 -> Disk space for logs below 20 percent
+2024-03-11 23:21:30 -> Connection pool near limit 90 percent
+2024-03-11 23:26:00 -> Connection pool near limit 90 percent
+2024-03-11 23:26:15 -> Memory usage above threshold
+2024-03-11 23:28:45 -> Slow query detected taking 5 seconds
+2024-03-11 23:29:00 -> Slow query detected taking 5 seconds
+2024-03-11 23:30:30 -> Memory usage above threshold
+2024-03-11 23:31:00 -> Slow query detected taking 5 seconds
+2024-03-11 23:34:15 -> Connection pool near limit 90 percent
+2024-03-11 23:34:45 -> API response delayed
+2024-03-11 23:35:30 -> Disk space for logs below 20 percent
+2024-03-11 23:36:00 -> Connection pool near limit 90 percent
+2024-03-11 23:37:30 -> Connection pool near limit 90 percent
+2024-03-11 23:38:00 -> Connection pool near limit 90 percent
+2024-03-11 23:39:00 -> Disk space for logs below 20 percent
+2024-03-11 23:39:30 -> API response delayed
+2024-03-11 23:40:45 -> Disk space for logs below 20 percent
+2024-03-11 23:42:45 -> Disk space for logs below 20 percent
+2024-03-11 23:43:00 -> API response delayed
+2024-03-11 23:44:00 -> Memory usage above threshold
+2024-03-11 23:45:00 -> Memory usage above threshold
+2024-03-11 23:50:15 -> Disk space for logs below 20 percent
+2024-03-11 23:54:15 -> Memory usage above threshold
+2024-03-11 23:55:00 -> Disk space for logs below 20 percent
+2024-03-11 23:55:15 -> Slow query detected taking 5 seconds
+2024-03-11 23:55:45 -> Slow query detected taking 5 seconds
+2024-03-11 23:56:00 -> Memory usage above threshold
+2024-03-11 23:59:30 -> API response delayed
+2024-03-12 00:02:00 -> Connection pool near limit 90 percent
+2024-03-12 00:07:30 -> Slow query detected taking 5 seconds
+2024-03-12 00:10:15 -> Slow query detected taking 5 seconds
+2024-03-12 00:12:00 -> Slow query detected taking 5 seconds
+2024-03-12 00:15:00 -> Connection pool near limit 90 percent
+2024-03-12 00:15:15 -> Disk space for logs below 20 percent
+2024-03-12 00:16:30 -> API response delayed
+2024-03-12 00:18:00 -> Memory usage above threshold
+2024-03-12 00:18:30 -> Connection pool near limit 90 percent
+2024-03-12 00:20:30 -> Connection pool near limit 90 percent
+2024-03-12 00:20:45 -> Connection pool near limit 90 percent
+2024-03-12 00:21:45 -> Connection pool near limit 90 percent
+2024-03-12 00:22:45 -> Slow query detected taking 5 seconds
+2024-03-12 00:24:00 -> Connection pool near limit 90 percent
+2024-03-12 00:24:30 -> Disk space for logs below 20 percent
+2024-03-12 00:26:15 -> Connection pool near limit 90 percent
+2024-03-12 00:27:45 -> Slow query detected taking 5 seconds
+2024-03-12 00:29:45 -> Memory usage above threshold
+2024-03-12 00:30:00 -> Disk space for logs below 20 percent
+2024-03-12 00:32:30 -> API response delayed
+2024-03-12 00:37:15 -> Slow query detected taking 5 seconds
+2024-03-12 00:38:00 -> Connection pool near limit 90 percent
+2024-03-12 00:38:45 -> Memory usage above threshold
+2024-03-12 00:39:00 -> API response delayed
+2024-03-12 00:39:15 -> API response delayed
+2024-03-12 00:39:45 -> Connection pool near limit 90 percent
+2024-03-12 00:40:00 -> API response delayed
+2024-03-12 00:41:30 -> Disk space for logs below 20 percent
+2024-03-12 00:43:30 -> Slow query detected taking 5 seconds
+2024-03-12 00:45:15 -> Memory usage above threshold
+2024-03-12 00:45:30 -> Disk space for logs below 20 percent
+2024-03-12 00:46:30 -> Memory usage above threshold
+2024-03-12 00:47:45 -> Disk space for logs below 20 percent
+2024-03-12 00:48:30 -> API response delayed
+2024-03-12 00:53:00 -> API response delayed
+2024-03-12 00:53:15 -> Memory usage above threshold
+2024-03-12 00:54:15 -> Connection pool near limit 90 percent
+2024-03-12 00:56:00 -> Disk space for logs below 20 percent
+2024-03-12 00:56:45 -> API response delayed
+2024-03-12 00:58:15 -> Connection pool near limit 90 percent
+2024-03-12 00:59:00 -> API response delayed
+2024-03-12 01:02:30 -> Disk space for logs below 20 percent
+2024-03-12 01:07:45 -> Connection pool near limit 90 percent
+2024-03-12 01:09:00 -> API response delayed
+2024-03-12 01:14:45 -> Memory usage above threshold
+2024-03-12 01:15:30 -> Slow query detected taking 5 seconds
+2024-03-12 01:17:15 -> Slow query detected taking 5 seconds
+2024-03-12 01:17:30 -> Connection pool near limit 90 percent
+2024-03-12 01:22:30 -> API response delayed
+2024-03-12 01:25:15 -> Disk space for logs below 20 percent
+2024-03-12 01:26:00 -> Disk space for logs below 20 percent
+2024-03-12 01:28:15 -> API response delayed
+2024-03-12 01:31:15 -> Disk space for logs below 20 percent
+2024-03-12 01:31:45 -> Slow query detected taking 5 seconds
+2024-03-12 01:32:00 -> Slow query detected taking 5 seconds
+2024-03-12 01:33:00 -> API response delayed
+2024-03-12 01:33:45 -> API response delayed
+2024-03-12 01:35:45 -> Disk space for logs below 20 percent
+2024-03-12 01:36:30 -> Disk space for logs below 20 percent
+2024-03-12 01:38:30 -> API response delayed
+2024-03-12 01:38:45 -> Memory usage above threshold
+2024-03-12 01:39:30 -> API response delayed
+2024-03-12 01:41:30 -> API response delayed
+2024-03-12 01:42:45 -> Disk space for logs below 20 percent
+2024-03-12 01:43:00 -> API response delayed
+2024-03-12 01:43:45 -> Memory usage above threshold
+2024-03-12 01:44:30 -> Memory usage above threshold
+2024-03-12 01:49:00 -> Disk space for logs below 20 percent
+2024-03-12 01:49:15 -> API response delayed
+2024-03-12 01:50:15 -> Slow query detected taking 5 seconds
+2024-03-12 01:52:30 -> Slow query detected taking 5 seconds
+2024-03-12 01:53:00 -> Slow query detected taking 5 seconds
+2024-03-12 01:53:15 -> Memory usage above threshold
+2024-03-12 01:53:30 -> API response delayed
+2024-03-12 01:54:15 -> Disk space for logs below 20 percent
+2024-03-12 01:55:00 -> Connection pool near limit 90 percent
+2024-03-12 01:56:00 -> API response delayed
+2024-03-12 01:59:15 -> Connection pool near limit 90 percent
+2024-03-12 02:01:15 -> API response delayed
+2024-03-12 02:05:30 -> Connection pool near limit 90 percent
+2024-03-12 02:07:30 -> Memory usage above threshold
+2024-03-12 02:08:00 -> API response delayed
+2024-03-12 02:09:30 -> Disk space for logs below 20 percent
+2024-03-12 02:09:45 -> Slow query detected taking 5 seconds
+2024-03-12 02:12:15 -> Connection pool near limit 90 percent
+2024-03-12 02:17:00 -> Memory usage above threshold
+2024-03-12 02:18:00 -> Slow query detected taking 5 seconds
+2024-03-12 02:18:30 -> Connection pool near limit 90 percent
+2024-03-12 02:21:15 -> Memory usage above threshold
+2024-03-12 02:21:45 -> Disk space for logs below 20 percent
+2024-03-12 02:24:45 -> Connection pool near limit 90 percent
+2024-03-12 02:30:30 -> Memory usage above threshold
+2024-03-12 02:31:45 -> Connection pool near limit 90 percent
+2024-03-12 02:32:00 -> Memory usage above threshold
+2024-03-12 02:34:30 -> Connection pool near limit 90 percent
+2024-03-12 02:35:00 -> Slow query detected taking 5 seconds
+2024-03-12 02:36:00 -> Slow query detected taking 5 seconds
+
+---SEVERITY ---
+Critical Issues .Immediate attention required.

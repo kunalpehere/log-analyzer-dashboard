@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools==83.0.0", "wheel==0.48.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "log-analyzer-local"
+version = "0.6.0"
+description = "Local evidence-based log investigations with bounded storage and deterministic diagnostics"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = ["streamlit==1.66.0", "plotly==7.1.0"]
+classifiers = [
+    "Private :: Do Not Upload",
+    "Programming Language :: Python :: 3.12",
+]
+
+[project.scripts]
+log-analyzer = "log_analyzer.cli:cli"
+log-analyzer-dashboard = "log_analyzer.launcher:main"
+
+[tool.setuptools]
+packages = ["log_analyzer", "log_analyzer.parsers", "log_analyzer.samples"]
+py-modules = ["main", "dashboard", "database", "status_policy", "parser", "analyzer", "report_writer", "generate_logs"]
+include-package-data = false
+
+[tool.setuptools.package-dir]
+"log_analyzer.samples" = "logs"
+
+[tool.setuptools.package-data]
+"log_analyzer.samples" = ["*.log"]
+
+[tool.coverage.run]
+branch = true
+source = ["log_analyzer", "main", "dashboard", "database", "status_policy", "parser", "analyzer", "report_writer", "generate_logs"]
+omit = ["log_analyzer/samples/*"]
+
+[tool.coverage.report]
+show_missing = true
+skip_empty = true
+

@@ -1,0 +1,59 @@
+{
+  "checked_date": "2026-10-15",
+  "repository": "https://github.com/anjali03102005/Log_Analyzer_Dashboard",
+  "commit": "d528d0a1b218a9f5cca99b480e9f741f6765a45b",
+  "commit_date": "2026-07-05T10:06:23Z",
+  "github_license_metadata": null,
+  "license_named_paths": [],
+  "inherited_asset_checks": [
+    {
+      "path": "logs/app.log",
+      "local_sha256": "7ce7c3ae2937fdd2b43155fecf768101cfa55c496cf9d897f60a934b6b351bbf",
+      "github_blob_sha1": "4084169fd2a0e3f1b18eae5c5f4159bf503e4579",
+      "git_blob_matches": true
+    },
+    {
+      "path": "logs/big_test.log",
+      "local_sha256": "b2cf2f4727e03feaa7b14d531593e0db5ab94c9c6642c8d7d88e6bb2217e3e2a",
+      "github_blob_sha1": "a24b702ff1c446460ab0ab5ec9f072e6abf6cde1",
+      "git_blob_matches": true
+    },
+    {
+      "path": "logs/database.log",
+      "local_sha256": "b34cb5535b30fbf809446db095427d0ace3a9e9a6abdf26abf397bd97fcc439f",
+      "github_blob_sha1": "d6a5315b76effda65a787ccbbaf73fdaa1694054",
+      "git_blob_matches": true
+    },
+    {
+      "path": "logs/server.log",
+      "local_sha256": "2f4403b113e7f66c1b7c4c5020f4d59e9661629097d58ce5dbc4c24bd12e4635",
+      "github_blob_sha1": "6d3f1c3610c03d18530160b14303162e3fc49509",
+      "git_blob_matches": true
+    },
+    {
+      "path": "reports/app_report.txt",
+      "local_sha256": "05210e36bd0e96fcfb74bedc92dcae3937684fc57e3968adf93899787fb8c871",
+      "github_blob_sha1": "94f4133b5548ae0e630844b445a863696d0bd86b",
+      "git_blob_matches": true
+    },
+    {
+      "path": "reports/big_test_report.txt",
+      "local_sha256": "d6633cc3bf49f4646ae2b4942536e3c6d8217ed52105c2e99a4030118bb0394a",
+      "github_blob_sha1": "bfaec9ec028139ccd39b64b60b18e5be29d38212",
+      "git_blob_matches": true
+    },
+    {
+      "path": "reports/database_report.txt",
+      "local_sha256": "6c819a69afb11ce32c2416ccba8748ee029faf328c70fe578e0efb60d604f7f4",
+      "github_blob_sha1": "bc8876d0ddef81eda19dec8fdbe5ee8c4656bef5",
+      "git_blob_matches": true
+    },
+    {
+      "path": "reports/server_report.txt",
+      "local_sha256": "cea61a4adefd52aa7494fb644fce48d7d2a9325ed146948184110dcb7b79e93e",
+      "github_blob_sha1": "20e4ac609f43f845d7b21b308c4dcfcb67232590",
+      "git_blob_matches": true
+    }
+  ],
+  "conclusion": "Matching content identifies an upstream source candidate; it does not establish redistribution permission. No license or written permission is inferred."
+}

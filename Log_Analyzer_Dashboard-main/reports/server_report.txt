@@ -1,0 +1,22 @@
+========================================
+REPORT: logs/server.log
+========================================
+Total lines: 15
+Total errors: 5
+Total warnings: 4
+
+---ERROR DETAILS ---
+2024-03-10 10:01:12 -> Port 8080 unavailable
+2024-03-10 10:03:45 -> SSH connection dropped
+2024-03-10 10:06:22 -> Load balancer failed to respond
+2024-03-10 10:09:55 -> Disk read error on volume C
+2024-03-10 10:11:17 -> Network interface eth0 down
+
+---WARNING DETAILS ---
+2024-03-10 10:02:34 -> High network latency detected
+2024-03-10 10:05:11 -> Unusual login attempt blocked
+2024-03-10 10:08:44 -> CPU temperature above threshold
+2024-03-10 10:13:39 -> Memory swap usage at 80 percent
+
+---SEVERITY ---
+Moderate Issues .Investigate soon.

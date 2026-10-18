@@ -1,0 +1,45 @@
+# Local validation environments and scratch directories
+.r/
+.t/
+.w/
+
+# Python environments, caches, and build output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.runtime-tmp/
+.test-tmp/
+*.egg-info/
+build/
+dist/
+.coverage*
+htmlcov/
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+.streamlit/secrets.toml
+credentials.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local databases, including SQLite sidecars
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+
+# Editors and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

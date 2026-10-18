@@ -1,0 +1,85 @@
+name: Release validation
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  validate:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, ubuntu-latest]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 30
+    defaults:
+      run:
+        shell: pwsh
+    env:
+      PYTHONUTF8: '1'
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Locate application
+        id: layout
+        run: |
+          if (Test-Path pyproject.toml) { $appDir = '.' }
+          elseif (Test-Path Log_Analyzer_Dashboard-main/pyproject.toml) { $appDir = 'Log_Analyzer_Dashboard-main' }
+          else { throw 'Application pyproject.toml was not found' }
+          "app_dir=$appDir" >> $env:GITHUB_OUTPUT
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: |
+            ${{ steps.layout.outputs.app_dir }}/requirements*.txt
+            ${{ steps.layout.outputs.app_dir }}/requirements/constraints-py312.txt
+      - name: Install constrained dependencies
+        working-directory: ${{ steps.layout.outputs.app_dir }}
+        run: |
+          python -m pip install -r requirements-dev.txt
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          python -m pip check
+      - name: Regression and dashboard tests with branch coverage
+        working-directory: ${{ steps.layout.outputs.app_dir }}
+        run: |
+          New-Item -ItemType Directory -Force .runtime-tmp | Out-Null
+          $env:TEMP = (Resolve-Path .runtime-tmp).Path
+          $env:TMP = $env:TEMP
+          python -m pytest --cov --cov-branch --cov-report=term-missing --cov-report=xml:.runtime-tmp/coverage.xml --cov-report=json:.runtime-tmp/coverage.json --junitxml=.runtime-tmp/tests.xml
+      - name: Build private source archive and wheel
+        working-directory: ${{ steps.layout.outputs.app_dir }}
+        run: |
+          python -m build --no-isolation --outdir .runtime-tmp/dist
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          $wheel = (Get-ChildItem .runtime-tmp/dist/*.whl).FullName
+          python -m pip install --no-deps $wheel
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          python scripts/check_installed.py
+      - name: Dependency advisory audit
+        working-directory: ${{ steps.layout.outputs.app_dir }}
+        run: python -m pip_audit --disable-pip --no-deps --strict -r requirements/constraints-py312.txt --format json --output .runtime-tmp/audit.json
+      - name: Reproducible benchmark and environment inventory
+        working-directory: ${{ steps.layout.outputs.app_dir }}
+        run: |
+          python scripts/benchmark_storage.py --directory .runtime-tmp/ci-benchmark --counts 200 2000 | Out-File -Encoding utf8 .runtime-tmp/benchmark.json
+          if ($LASTEXITCODE) { exit $LASTEXITCODE }
+          python scripts/release_inventory.py --output .runtime-tmp/environment.json
+      - name: Preserve validation reports only
+        if: always()
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: validation-${{ matrix.os }}
+          path: |
+            ${{ steps.layout.outputs.app_dir }}/.runtime-tmp/tests.xml
+            ${{ steps.layout.outputs.app_dir }}/.runtime-tmp/coverage.xml
+            ${{ steps.layout.outputs.app_dir }}/.runtime-tmp/coverage.json
+            ${{ steps.layout.outputs.app_dir }}/.runtime-tmp/audit.json
+            ${{ steps.layout.outputs.app_dir }}/.runtime-tmp/benchmark.json
+            ${{ steps.layout.outputs.app_dir }}/.runtime-tmp/environment.json
+          include-hidden-files: true
+          retention-days: 7
+          if-no-files-found: warn

@@ -1,0 +1,10 @@
+2026-10-15 10:00:00 INFO Ready
+2026-10-15 10:00:01 debug Details
+2026-10-15 10:00:02 WARN: Slow request
+2026-10-15 10:00:03 error Failed request
+2026-10-15 10:00:04 FATAL: Service stopped
+bad line
+2026-02-30 10:00:05 ERROR Impossible date
+2026-10-15 10:00:06 NOTICE Unknown level
+2026-10-15 10:00:07 ERROR
+

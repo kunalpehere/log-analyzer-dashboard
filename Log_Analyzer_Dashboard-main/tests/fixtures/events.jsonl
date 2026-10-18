@@ -1,0 +1,3 @@
+{"timestamp": "2026-10-15T12:00:00.123456+05:30", "level": "FATAL", "message": "Service failed", "request_id": "example-01"}
+{"timestamp": "2026-10-15T06:30:01Z", "level": "WARN", "message": "Retry scheduled"}
+{"timestamp": "2026-10-15T06:30:02Z", "level": "INFO", "message": "Recovered"}

@@ -1,0 +1,45 @@
+{
+  "python": "3.12.4",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "limits": {
+    "max_source_bytes": 52428800,
+    "max_line_chars": 65536,
+    "max_records": 250000,
+    "max_physical_lines": 500000,
+    "max_sources": 32,
+    "batch_size": 250,
+    "preview_size": 100,
+    "max_page_size": 200,
+    "max_event_chars": 262144,
+    "max_event_lines": 1000,
+    "max_download_bytes": 5242880,
+    "max_export_bytes": 209715200,
+    "max_compat_events": 20000,
+    "max_compat_chars": 8388608
+  },
+  "measurement": "tracemalloc during import, SQL selection aggregation, and bounded first pages; fixture creation/schema migration excluded; SQLite native memory and OS RSS not measured",
+  "samples": [
+    {
+      "records": 2000,
+      "unique_groups": 2000,
+      "input_bytes": 146890,
+      "elapsed_seconds": 0.6858,
+      "peak_python_bytes": 354826,
+      "peak_event_batch": 250,
+      "event_page_rows": 100,
+      "group_page_rows": 100,
+      "database_bytes": 4792320
+    },
+    {
+      "records": 20000,
+      "unique_groups": 20000,
+      "input_bytes": 1488890,
+      "elapsed_seconds": 16.5015,
+      "peak_python_bytes": 335818,
+      "peak_event_batch": 250,
+      "event_page_rows": 100,
+      "group_page_rows": 100,
+      "database_bytes": 47509504
+    }
+  ]
+}

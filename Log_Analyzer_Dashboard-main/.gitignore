@@ -1,0 +1,57 @@
+__pycache__/
+*.pyc
+logs.db
+.streamlit/secrets.toml
+
+.venv/
+.pytest_cache/
+.test-tmp/
+.runtime-tmp/
+
+build/
+dist/
+*.egg-info/
+.coverage*
+htmlcov/
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+.streamlit/secrets.toml
+credentials.json
+service-account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Local databases, including SQLite sidecars
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+
+# Editors and OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated investigations; keep only inherited reference reports
+/reports/*
+!/reports/app_report.txt
+!/reports/server_report.txt
+!/reports/database_report.txt
+!/reports/big_test_report.txt
+
+# Runtime logs; explicitly retain bundled samples and test fixtures
+*.log
+!/logs/app.log
+!/logs/server.log
+!/logs/database.log
+!/logs/big_test.log
+!/tests/fixtures/*.log
